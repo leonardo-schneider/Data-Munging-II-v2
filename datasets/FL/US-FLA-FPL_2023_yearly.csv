@@ -1,0 +1,2 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2023-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.15,387.69,28.29,7.64,eia.gov; Electricity Maps Estimation,true,ESTIMATED_TIME_SLICER_AVERAGE

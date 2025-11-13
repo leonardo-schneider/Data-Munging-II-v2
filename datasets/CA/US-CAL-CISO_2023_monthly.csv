@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2023-01-01 00:00:00,USA,CAISO,US-CAL-CISO,223.13,294.94,49.64,37.36,caiso.com,false,
+2023-02-01 00:00:00,USA,CAISO,US-CAL-CISO,214.32,284.90,51.33,38.03,caiso.com,false,
+2023-03-01 00:00:00,USA,CAISO,US-CAL-CISO,191.22,256.78,56.53,44.27,caiso.com,false,
+2023-04-01 00:00:00,USA,CAISO,US-CAL-CISO,156.52,215.95,63.27,52.32,caiso.com,false,
+2023-05-01 00:00:00,USA,CAISO,US-CAL-CISO,118.45,168.92,73.65,63.13,caiso.com,false,
+2023-06-01 00:00:00,USA,CAISO,US-CAL-CISO,135.79,189.78,69.23,58.50,caiso.com,false,
+2023-07-01 00:00:00,USA,CAISO,US-CAL-CISO,192.67,261.53,54.04,45.82,caiso.com,false,
+2023-08-01 00:00:00,USA,CAISO,US-CAL-CISO,207.20,278.35,51.50,42.62,caiso.com; Electricity Maps Estimation,false,
+2023-09-01 00:00:00,USA,CAISO,US-CAL-CISO,191.64,257.79,56.38,46.06,caiso.com,false,
+2023-10-01 00:00:00,USA,CAISO,US-CAL-CISO,233.61,309.12,46.25,39.73,caiso.com,false,
+2023-11-01 00:00:00,USA,CAISO,US-CAL-CISO,234.79,309.06,46.97,38.36,caiso.com; Electricity Maps Estimation,false,
+2023-12-01 00:00:00,USA,CAISO,US-CAL-CISO,243.93,320.48,45.22,33.95,caiso.com,false,

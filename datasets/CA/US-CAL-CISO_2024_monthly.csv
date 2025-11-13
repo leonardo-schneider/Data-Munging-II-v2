@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2024-01-01 00:00:00,USA,CAISO,US-CAL-CISO,237.05,308.64,47.47,35.48,caiso.com,false,
+2024-02-01 00:00:00,USA,CAISO,US-CAL-CISO,194.18,254.63,58.32,44.11,caiso.com,false,
+2024-03-01 00:00:00,USA,CAISO,US-CAL-CISO,144.23,193.80,69.88,56.39,caiso.com,false,
+2024-04-01 00:00:00,USA,CAISO,US-CAL-CISO,135.08,180.49,72.95,64.97,caiso.com,false,
+2024-05-01 00:00:00,USA,CAISO,US-CAL-CISO,108.50,148.81,78.92,71.46,caiso.com,false,
+2024-06-01 00:00:00,USA,CAISO,US-CAL-CISO,120.54,165.95,74.40,64.46,caiso.com,false,
+2024-07-01 00:00:00,USA,CAISO,US-CAL-CISO,179.33,240.85,58.58,50.31,caiso.com,false,
+2024-08-01 00:00:00,USA,CAISO,US-CAL-CISO,166.90,224.22,62.14,53.30,caiso.com,false,
+2024-09-01 00:00:00,USA,CAISO,US-CAL-CISO,177.38,235.22,60.96,51.42,caiso.com,false,
+2024-10-01 00:00:00,USA,CAISO,US-CAL-CISO,207.64,270.39,54.43,44.88,caiso.com,false,
+2024-11-01 00:00:00,USA,CAISO,US-CAL-CISO,200.14,257.55,58.38,46.16,caiso.com,false,
+2024-12-01 00:00:00,USA,CAISO,US-CAL-CISO,220.68,282.70,53.90,41.55,caiso.com,false,

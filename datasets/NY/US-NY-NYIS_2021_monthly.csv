@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2021-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,179.92,238.73,59.33,30.76,nyiso.com; Electricity Maps Estimation,false,
+2021-02-01 00:00:00,USA,New York ISO,US-NY-NYIS,200.54,260.65,56.97,27.70,nyiso.com,false,
+2021-03-01 00:00:00,USA,New York ISO,US-NY-NYIS,166.93,223.24,61.83,32.82,nyiso.com,false,
+2021-04-01 00:00:00,USA,New York ISO,US-NY-NYIS,155.13,209.77,64.05,33.52,nyiso.com,false,
+2021-05-01 00:00:00,USA,New York ISO,US-NY-NYIS,181.39,242.40,57.93,31.39,nyiso.com,false,
+2021-06-01 00:00:00,USA,New York ISO,US-NY-NYIS,227.58,297.51,48.47,26.51,nyiso.com,false,
+2021-07-01 00:00:00,USA,New York ISO,US-NY-NYIS,233.79,304.84,47.38,25.97,nyiso.com,false,
+2021-08-01 00:00:00,USA,New York ISO,US-NY-NYIS,246.11,320.00,44.60,24.75,nyiso.com,false,
+2021-09-01 00:00:00,USA,New York ISO,US-NY-NYIS,207.05,272.30,53.06,28.68,nyiso.com; Electricity Maps Estimation,false,
+2021-10-01 00:00:00,USA,New York ISO,US-NY-NYIS,201.63,267.28,53.22,30.89,nyiso.com,false,
+2021-11-01 00:00:00,USA,New York ISO,US-NY-NYIS,196.84,261.04,54.22,29.33,nyiso.com; Electricity Maps Estimation,false,
+2021-12-01 00:00:00,USA,New York ISO,US-NY-NYIS,197.00,259.27,55.68,31.28,nyiso.com,false,

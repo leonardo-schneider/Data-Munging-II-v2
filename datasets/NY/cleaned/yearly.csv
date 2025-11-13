@@ -1,0 +1,5 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method,year,frequency,region
+2021-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,201.97,266.08,54.21,29.21,Electricity Maps Estimation; nyiso.com,False,,2021,yearly,US-NY-NYIS
+2022-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,217.35,285.57,50.33,28.29,Electricity Maps Estimation; nyiso.com,False,,2022,yearly,US-NY-NYIS
+2023-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,212.65,281.45,49.92,27.03,Electricity Maps Estimation; nyiso.com,False,,2023,yearly,US-NY-NYIS
+2024-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,226.92,297.49,47.56,24.49,Electricity Maps Estimation; nyiso.com,False,,2024,yearly,US-NY-NYIS

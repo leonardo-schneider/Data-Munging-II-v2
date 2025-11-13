@@ -1,0 +1,1462 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method,year
+2021-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.15,395.16,27.95,3.4,eia.gov,False,,2021
+2021-01-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.59,397.01,27.52,2.47,eia.gov,False,,2021
+2021-01-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.14,375.94,31.74,2.7,eia.gov,False,,2021
+2021-01-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.47,368.85,34.25,4.58,eia.gov,False,,2021
+2021-01-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.26,374.72,34.13,4.85,eia.gov,False,,2021
+2021-01-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.75,373.92,33.53,4.61,eia.gov,False,,2021
+2021-01-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.18,373.89,31.82,2.84,eia.gov,False,,2021
+2021-01-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.7,365.24,32.93,2.96,eia.gov,False,,2021
+2021-01-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.3,372.67,32.99,3.35,eia.gov,False,,2021
+2021-01-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.31,379.64,30.41,4.04,eia.gov,False,,2021
+2021-01-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.12,377.96,31.57,3.2,eia.gov,False,,2021
+2021-01-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.85,375.48,31.54,0.95,Electricity Maps Estimation; eia.gov,False,,2021
+2021-01-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.2,389.76,29.62,1.23,eia.gov,False,,2021
+2021-01-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.6,399.26,28.0,4.09,eia.gov,False,,2021
+2021-01-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.25,387.43,30.28,3.78,eia.gov,False,,2021
+2021-01-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.24,367.75,34.7,4.52,eia.gov,False,,2021
+2021-01-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.29,386.54,30.91,2.61,eia.gov,False,,2021
+2021-01-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.6,370.54,34.32,5.08,eia.gov,False,,2021
+2021-01-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.43,373.86,32.98,5.39,eia.gov,False,,2021
+2021-01-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.53,370.91,33.84,5.12,eia.gov,False,,2021
+2021-01-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.71,400.13,26.55,4.63,eia.gov,False,,2021
+2021-01-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.54,389.03,26.65,3.92,eia.gov,False,,2021
+2021-01-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.42,386.3,27.2,3.21,eia.gov,False,,2021
+2021-01-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.02,350.1,34.43,3.42,eia.gov,False,,2021
+2021-01-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,270.85,355.53,32.94,3.26,eia.gov,False,,2021
+2021-01-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.89,359.33,32.22,3.68,eia.gov,False,,2021
+2021-01-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.12,364.9,31.05,3.14,eia.gov,False,,2021
+2021-01-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.04,345.81,35.03,5.52,eia.gov,False,,2021
+2021-01-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.93,347.87,34.84,5.4,eia.gov,False,,2021
+2021-01-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.19,345.51,35.34,4.47,eia.gov,False,,2021
+2021-01-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.15,345.27,35.43,3.54,eia.gov,False,,2021
+2021-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,270.59,355.07,33.27,2.96,eia.gov,False,,2021
+2021-02-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.88,372.07,30.73,4.85,eia.gov,False,,2021
+2021-02-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.25,394.72,26.62,4.78,eia.gov,False,,2021
+2021-02-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.13,401.11,26.12,4.67,eia.gov,False,,2021
+2021-02-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.46,398.77,28.55,4.14,eia.gov,False,,2021
+2021-02-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.11,397.04,28.74,2.41,eia.gov,False,,2021
+2021-02-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.62,399.68,27.82,3.19,eia.gov,False,,2021
+2021-02-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.72,400.62,26.26,2.65,eia.gov,False,,2021
+2021-02-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.54,376.44,29.29,2.93,eia.gov,False,,2021
+2021-02-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.79,372.27,29.8,3.4,eia.gov,False,,2021
+2021-02-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.18,372.8,29.64,3.23,eia.gov,False,,2021
+2021-02-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.07,377.48,28.86,2.88,eia.gov,False,,2021
+2021-02-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.96,382.65,28.41,2.31,eia.gov,False,,2021
+2021-02-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.25,387.62,27.73,2.54,eia.gov,False,,2021
+2021-02-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.45,387.56,27.07,2.61,eia.gov,False,,2021
+2021-02-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.25,367.82,29.22,3.45,eia.gov,False,,2021
+2021-02-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.8,378.84,29.2,2.4,eia.gov,False,,2021
+2021-02-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.2,385.3,28.88,3.72,eia.gov,False,,2021
+2021-02-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.78,392.25,27.38,2.46,eia.gov,False,,2021
+2021-02-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.75,356.54,35.83,6.0,eia.gov,False,,2021
+2021-02-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.96,362.01,36.19,5.29,eia.gov,False,,2021
+2021-02-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.37,368.54,33.21,4.26,eia.gov,False,,2021
+2021-02-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.14,363.46,32.67,5.25,eia.gov,False,,2021
+2021-02-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.25,355.76,32.84,4.72,eia.gov,False,,2021
+2021-02-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.88,352.17,33.15,5.29,eia.gov,False,,2021
+2021-02-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.29,371.88,30.71,4.38,eia.gov,False,,2021
+2021-02-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.94,376.61,29.66,4.17,eia.gov,False,,2021
+2021-02-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.08,376.9,29.5,4.17,eia.gov,False,,2021
+2021-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.48,394.46,25.65,3.58,eia.gov,False,,2021
+2021-03-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.6,416.24,21.21,2.6,eia.gov,False,,2021
+2021-03-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.5,409.76,22.55,3.04,eia.gov,False,,2021
+2021-03-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.48,393.41,26.71,4.53,eia.gov,False,,2021
+2021-03-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.42,367.85,31.95,5.43,eia.gov,False,,2021
+2021-03-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.36,362.72,32.5,1.54,eia.gov,False,,2021
+2021-03-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,258.66,337.55,38.15,6.21,eia.gov,False,,2021
+2021-03-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.57,342.33,36.58,6.12,eia.gov,False,,2021
+2021-03-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.79,338.86,36.64,5.82,eia.gov,False,,2021
+2021-03-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.01,336.53,37.13,6.07,eia.gov,False,,2021
+2021-03-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.89,343.89,35.7,5.85,eia.gov,False,,2021
+2021-03-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.38,348.95,35.26,5.89,eia.gov,False,,2021
+2021-03-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.49,343.97,35.31,5.77,eia.gov,False,,2021
+2021-03-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.9,343.16,35.38,5.74,eia.gov,False,,2021
+2021-03-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.23,358.6,31.76,4.75,eia.gov,False,,2021
+2021-03-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.77,378.9,30.16,4.61,eia.gov,False,,2021
+2021-03-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.5,382.56,29.26,4.93,eia.gov,False,,2021
+2021-03-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.22,389.6,26.93,3.69,eia.gov,False,,2021
+2021-03-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.2,378.7,30.13,5.64,eia.gov,False,,2021
+2021-03-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.88,369.81,32.49,4.06,eia.gov,False,,2021
+2021-03-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.81,370.26,32.83,3.46,eia.gov,False,,2021
+2021-03-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.54,367.65,33.24,4.2,eia.gov,False,,2021
+2021-03-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.19,365.42,34.07,5.79,eia.gov,False,,2021
+2021-03-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.46,364.75,33.85,5.59,eia.gov,False,,2021
+2021-03-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.39,385.37,29.31,5.01,eia.gov,False,,2021
+2021-03-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.56,389.76,28.05,4.45,eia.gov,False,,2021
+2021-03-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.99,388.39,28.78,4.56,eia.gov,False,,2021
+2021-03-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.64,387.16,28.73,4.63,eia.gov,False,,2021
+2021-03-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.87,392.47,27.7,3.95,eia.gov,False,,2021
+2021-03-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.96,388.91,27.51,4.07,eia.gov,False,,2021
+2021-03-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.75,393.44,26.76,3.94,eia.gov,False,,2021
+2021-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.18,388.07,28.47,4.18,eia.gov,False,,2021
+2021-04-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.18,352.84,36.58,6.9,eia.gov,False,,2021
+2021-04-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.23,346.42,37.99,6.5,eia.gov,False,,2021
+2021-04-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.88,344.56,38.41,6.73,eia.gov,False,,2021
+2021-04-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.09,347.87,37.31,6.9,eia.gov,False,,2021
+2021-04-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.98,357.1,35.89,6.52,eia.gov,False,,2021
+2021-04-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.69,358.77,35.0,6.48,eia.gov,False,,2021
+2021-04-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.18,361.95,33.52,5.97,eia.gov,False,,2021
+2021-04-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.16,380.96,29.68,5.28,eia.gov,False,,2021
+2021-04-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.43,405.79,24.44,4.96,eia.gov,False,,2021
+2021-04-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.66,416.21,22.18,2.38,eia.gov,False,,2021
+2021-04-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.45,404.29,25.82,5.8,eia.gov,False,,2021
+2021-04-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.78,413.66,24.9,6.3,eia.gov,False,,2021
+2021-04-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.95,422.2,23.46,5.53,eia.gov,False,,2021
+2021-04-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.93,415.49,23.08,4.59,eia.gov,False,,2021
+2021-04-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.19,420.65,22.28,4.16,eia.gov,False,,2021
+2021-04-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.78,414.27,22.13,4.14,eia.gov,False,,2021
+2021-04-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.93,424.18,21.17,3.82,eia.gov,False,,2021
+2021-04-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.54,429.02,20.02,3.22,eia.gov,False,,2021
+2021-04-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.0,424.3,21.2,2.97,eia.gov,False,,2021
+2021-04-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.46,416.49,22.79,4.6,eia.gov,False,,2021
+2021-04-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.68,404.45,25.25,6.56,eia.gov,False,,2021
+2021-04-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.87,403.39,24.3,5.66,eia.gov,False,,2021
+2021-04-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.23,402.78,24.3,6.74,eia.gov,False,,2021
+2021-04-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.24,412.99,22.0,5.15,eia.gov,False,,2021
+2021-04-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.74,408.08,22.52,5.49,eia.gov,False,,2021
+2021-04-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.94,405.59,23.2,5.57,eia.gov,False,,2021
+2021-04-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.15,412.67,23.13,5.63,eia.gov,False,,2021
+2021-04-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.28,422.67,21.19,4.92,eia.gov,False,,2021
+2021-04-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.34,427.69,20.14,4.19,eia.gov,False,,2021
+2021-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.15,420.43,22.17,5.45,eia.gov,False,,2021
+2021-05-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.09,426.67,20.86,4.43,eia.gov,False,,2021
+2021-05-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.03,432.85,19.93,4.63,eia.gov,False,,2021
+2021-05-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,337.46,437.11,19.2,4.58,eia.gov,False,,2021
+2021-05-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.99,436.29,19.43,4.61,eia.gov,False,,2021
+2021-05-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.06,441.99,18.77,3.82,eia.gov,False,,2021
+2021-05-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.89,419.01,22.49,6.08,eia.gov,False,,2021
+2021-05-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.0,409.78,24.81,6.66,eia.gov,False,,2021
+2021-05-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.19,413.22,23.58,6.02,eia.gov,False,,2021
+2021-05-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.45,427.64,20.27,4.24,eia.gov,False,,2021
+2021-05-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.45,427.39,20.33,4.26,eia.gov,False,,2021
+2021-05-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.65,423.17,21.1,6.17,eia.gov,False,,2021
+2021-05-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.55,432.63,19.34,2.88,eia.gov,False,,2021
+2021-05-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.71,414.62,23.59,5.81,eia.gov,False,,2021
+2021-05-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.35,394.95,25.64,7.8,eia.gov,False,,2021
+2021-05-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.01,391.75,25.53,8.04,eia.gov,False,,2021
+2021-05-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.17,397.36,23.97,5.94,eia.gov,False,,2021
+2021-05-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.9,394.14,24.84,5.61,eia.gov,False,,2021
+2021-05-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.37,384.19,27.01,4.89,eia.gov,False,,2021
+2021-05-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.66,373.32,29.11,5.61,eia.gov,False,,2021
+2021-05-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.25,373.31,29.56,5.4,eia.gov,False,,2021
+2021-05-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.25,366.05,30.85,6.02,eia.gov,False,,2021
+2021-05-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.83,365.14,31.28,6.43,eia.gov,False,,2021
+2021-05-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.25,368.43,30.42,6.57,eia.gov,False,,2021
+2021-05-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.48,375.13,29.0,6.16,eia.gov,False,,2021
+2021-05-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.27,382.16,27.73,5.6,eia.gov,False,,2021
+2021-05-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.68,385.03,27.24,5.33,eia.gov,False,,2021
+2021-05-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.75,385.29,27.09,5.32,eia.gov,False,,2021
+2021-05-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.83,378.89,27.7,5.47,eia.gov,False,,2021
+2021-05-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.77,385.12,27.21,4.57,eia.gov,False,,2021
+2021-05-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.29,378.55,28.37,5.44,eia.gov,False,,2021
+2021-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.18,382.99,27.79,5.3,eia.gov,False,,2021
+2021-06-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.03,386.83,26.74,4.04,eia.gov,False,,2021
+2021-06-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.74,392.42,25.89,3.85,eia.gov,False,,2021
+2021-06-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.59,395.79,25.34,3.59,eia.gov,False,,2021
+2021-06-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.95,392.8,25.86,5.22,eia.gov,False,,2021
+2021-06-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.01,393.33,25.39,4.3,eia.gov,False,,2021
+2021-06-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.66,402.43,24.05,3.88,eia.gov,False,,2021
+2021-06-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.82,401.52,25.17,4.89,Electricity Maps Estimation; eia.gov,False,,2021
+2021-06-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.55,407.41,25.09,4.85,eia.gov,False,,2021
+2021-06-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.25,410.92,24.31,4.47,eia.gov,False,,2021
+2021-06-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.0,409.07,24.02,4.39,eia.gov,False,,2021
+2021-06-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.19,399.53,24.71,3.93,eia.gov,False,,2021
+2021-06-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.2,392.08,26.11,4.43,eia.gov,False,,2021
+2021-06-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.51,392.45,26.09,3.57,eia.gov,False,,2021
+2021-06-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.48,401.15,26.17,3.56,eia.gov,False,,2021
+2021-06-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.62,394.67,26.58,3.12,eia.gov,False,,2021
+2021-06-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.78,395.38,27.15,3.68,eia.gov,False,,2021
+2021-06-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.6,408.89,24.7,3.36,eia.gov,False,,2021
+2021-06-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.28,411.07,24.21,3.79,eia.gov,False,,2021
+2021-06-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.72,413.15,23.56,3.55,eia.gov,False,,2021
+2021-06-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.51,418.8,22.68,2.7,eia.gov,False,,2021
+2021-06-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.44,416.76,22.67,3.03,eia.gov,False,,2021
+2021-06-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.93,412.98,23.83,3.1,eia.gov,False,,2021
+2021-06-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.37,405.34,25.81,3.47,eia.gov,False,,2021
+2021-06-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.25,404.55,25.57,2.93,eia.gov,False,,2021
+2021-06-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.51,406.09,25.38,3.48,eia.gov,False,,2021
+2021-06-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.67,401.64,26.14,4.9,eia.gov,False,,2021
+2021-06-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.53,408.52,25.02,3.73,eia.gov,False,,2021
+2021-06-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.3,410.66,24.62,2.78,eia.gov,False,,2021
+2021-06-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.14,406.0,26.0,2.81,eia.gov,False,,2021
+2021-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.41,406.69,25.63,3.18,eia.gov,False,,2021
+2021-07-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.41,405.9,25.49,4.08,eia.gov,False,,2021
+2021-07-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.7,411.07,23.7,2.99,eia.gov,False,,2021
+2021-07-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.63,408.56,24.19,3.82,eia.gov,False,,2021
+2021-07-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.63,412.2,23.55,3.32,eia.gov,False,,2021
+2021-07-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.18,404.67,24.56,2.2,eia.gov,False,,2021
+2021-07-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.64,402.8,24.03,2.46,eia.gov,False,,2021
+2021-07-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.01,397.51,24.75,4.13,eia.gov,False,,2021
+2021-07-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.25,404.45,23.93,3.7,eia.gov,False,,2021
+2021-07-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.78,395.74,25.24,4.05,eia.gov,False,,2021
+2021-07-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.79,400.47,25.36,3.86,eia.gov,False,,2021
+2021-07-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.58,405.81,24.86,3.68,eia.gov,False,,2021
+2021-07-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.69,403.18,25.65,4.24,eia.gov,False,,2021
+2021-07-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.94,405.83,25.25,4.24,eia.gov,False,,2021
+2021-07-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.38,406.87,24.71,4.7,eia.gov,False,,2021
+2021-07-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.82,406.97,24.19,4.72,eia.gov,False,,2021
+2021-07-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.2,399.65,24.75,4.09,eia.gov,False,,2021
+2021-07-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.84,404.39,24.56,3.98,eia.gov,False,,2021
+2021-07-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.66,413.88,22.93,3.62,eia.gov,False,,2021
+2021-07-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.28,409.45,23.95,4.01,eia.gov,False,,2021
+2021-07-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.96,410.0,24.02,4.27,eia.gov,False,,2021
+2021-07-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.42,416.63,22.81,4.16,eia.gov,False,,2021
+2021-07-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.53,418.26,22.31,3.74,eia.gov,False,,2021
+2021-07-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.02,404.99,25.11,4.88,eia.gov,False,,2021
+2021-07-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.49,405.55,25.17,6.07,eia.gov,False,,2021
+2021-07-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.68,418.11,22.61,3.21,eia.gov,False,,2021
+2021-07-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.17,420.08,22.23,3.1,eia.gov,False,,2021
+2021-07-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.74,415.48,23.34,3.26,eia.gov,False,,2021
+2021-07-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.22,411.69,23.74,3.92,eia.gov,False,,2021
+2021-07-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.01,412.41,23.81,4.6,eia.gov,False,,2021
+2021-07-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.86,419.27,21.99,5.36,eia.gov,False,,2021
+2021-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.77,420.46,22.4,3.97,eia.gov,False,,2021
+2021-08-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.96,418.35,22.7,3.8,eia.gov,False,,2021
+2021-08-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.11,417.09,22.92,2.13,eia.gov,False,,2021
+2021-08-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.84,406.2,25.47,2.42,eia.gov,False,,2021
+2021-08-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.54,417.09,22.66,2.93,eia.gov,False,,2021
+2021-08-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.53,419.91,21.91,3.85,eia.gov,False,,2021
+2021-08-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.91,423.15,21.9,3.52,eia.gov,False,,2021
+2021-08-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.99,420.67,22.43,3.8,eia.gov,False,,2021
+2021-08-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.27,428.38,21.18,3.68,eia.gov,False,,2021
+2021-08-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.55,432.24,20.73,3.41,eia.gov,False,,2021
+2021-08-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.28,431.68,21.04,3.66,eia.gov,False,,2021
+2021-08-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.23,429.38,21.33,3.79,eia.gov,False,,2021
+2021-08-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.36,430.63,21.19,3.21,eia.gov,False,,2021
+2021-08-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.34,444.78,19.03,2.65,eia.gov,False,,2021
+2021-08-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.64,439.99,20.06,2.97,eia.gov,False,,2021
+2021-08-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.4,445.56,18.35,3.12,eia.gov,False,,2021
+2021-08-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.61,434.78,20.17,3.42,eia.gov,False,,2021
+2021-08-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.88,423.86,22.39,4.27,eia.gov,False,,2021
+2021-08-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.48,419.88,22.82,4.44,eia.gov,False,,2021
+2021-08-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.48,423.96,22.7,4.15,eia.gov,False,,2021
+2021-08-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.57,423.91,22.82,4.09,eia.gov,False,,2021
+2021-08-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.04,425.92,22.27,3.56,eia.gov,False,,2021
+2021-08-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.75,428.69,21.3,2.59,eia.gov,False,,2021
+2021-08-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.03,425.53,21.84,2.95,eia.gov,False,,2021
+2021-08-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.67,419.89,23.14,4.0,eia.gov,False,,2021
+2021-08-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.54,419.86,23.01,3.23,eia.gov,False,,2021
+2021-08-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.87,431.29,20.14,2.53,eia.gov,False,,2021
+2021-08-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.11,443.82,18.1,3.85,eia.gov,False,,2021
+2021-08-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,339.09,438.85,19.08,5.74,eia.gov,False,,2021
+2021-08-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.94,445.34,18.28,4.24,eia.gov,False,,2021
+2021-08-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.29,444.21,18.74,4.34,eia.gov,False,,2021
+2021-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,346.34,447.2,17.81,3.12,eia.gov,False,,2021
+2021-09-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.49,439.79,19.39,3.64,eia.gov,False,,2021
+2021-09-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,338.54,436.76,20.39,4.27,eia.gov,False,,2021
+2021-09-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.51,432.24,20.94,4.86,eia.gov,False,,2021
+2021-09-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.05,433.23,20.5,4.66,eia.gov,False,,2021
+2021-09-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.58,439.88,19.34,4.26,eia.gov,False,,2021
+2021-09-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.76,440.73,18.77,3.86,eia.gov,False,,2021
+2021-09-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.66,441.82,18.56,3.65,eia.gov,False,,2021
+2021-09-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.22,440.45,18.6,3.79,eia.gov,False,,2021
+2021-09-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,339.85,439.49,19.05,4.06,eia.gov,False,,2021
+2021-09-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.15,442.82,18.9,3.54,eia.gov,False,,2021
+2021-09-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.63,443.43,18.8,3.96,eia.gov,False,,2021
+2021-09-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.28,441.98,18.95,3.87,eia.gov,False,,2021
+2021-09-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.17,443.94,18.86,3.73,eia.gov,False,,2021
+2021-09-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.07,442.79,18.99,4.08,eia.gov,False,,2021
+2021-09-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,347.79,447.86,18.49,2.91,eia.gov,False,,2021
+2021-09-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.08,442.63,19.11,3.15,eia.gov,False,,2021
+2021-09-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,338.18,436.87,20.04,3.9,eia.gov,False,,2021
+2021-09-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.59,436.32,19.04,3.3,eia.gov,False,,2021
+2021-09-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.1,436.55,18.43,3.24,eia.gov,False,,2021
+2021-09-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,337.84,438.14,18.51,2.53,eia.gov,False,,2021
+2021-09-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.88,430.31,20.37,3.86,eia.gov,False,,2021
+2021-09-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.75,428.96,20.54,4.44,eia.gov,False,,2021
+2021-09-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.54,426.6,20.72,4.72,eia.gov,False,,2021
+2021-09-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.54,424.0,21.35,5.26,eia.gov,False,,2021
+2021-09-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.33,412.56,22.62,6.89,eia.gov,False,,2021
+2021-09-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.17,416.72,21.27,5.1,eia.gov,False,,2021
+2021-09-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.97,417.7,21.18,4.98,eia.gov,False,,2021
+2021-09-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.97,423.97,20.98,4.57,eia.gov,False,,2021
+2021-09-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.32,421.98,21.27,4.51,eia.gov,False,,2021
+2021-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.93,416.32,23.26,3.9,eia.gov,False,,2021
+2021-10-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.13,400.66,26.95,5.66,eia.gov,False,,2021
+2021-10-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.84,399.52,27.85,6.43,eia.gov,False,,2021
+2021-10-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.77,407.7,25.57,4.43,eia.gov,False,,2021
+2021-10-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.61,414.9,24.13,3.52,eia.gov,False,,2021
+2021-10-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.29,420.65,23.03,3.15,eia.gov,False,,2021
+2021-10-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.99,421.63,22.73,3.08,eia.gov,False,,2021
+2021-10-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.18,438.91,20.56,2.9,eia.gov,False,,2021
+2021-10-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.08,441.85,20.66,3.44,eia.gov,False,,2021
+2021-10-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,338.42,434.33,22.53,4.7,eia.gov,False,,2021
+2021-10-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.9,440.05,21.31,4.2,eia.gov,False,,2021
+2021-10-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.25,438.71,21.03,4.26,eia.gov,False,,2021
+2021-10-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,338.73,436.45,20.82,4.27,eia.gov,False,,2021
+2021-10-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,338.6,436.71,20.51,4.34,eia.gov,False,,2021
+2021-10-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.11,439.47,20.27,4.1,eia.gov,False,,2021
+2021-10-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.98,433.88,21.71,4.78,eia.gov,False,,2021
+2021-10-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.22,427.71,23.0,5.03,eia.gov,False,,2021
+2021-10-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.97,424.98,23.59,5.33,eia.gov,False,,2021
+2021-10-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.52,425.3,23.73,4.97,eia.gov,False,,2021
+2021-10-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.77,427.11,23.18,5.01,eia.gov,False,,2021
+2021-10-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.71,432.1,22.16,4.71,eia.gov,False,,2021
+2021-10-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.86,433.27,22.01,4.33,eia.gov,False,,2021
+2021-10-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.68,412.91,26.43,8.09,eia.gov,False,,2021
+2021-10-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.23,416.39,25.55,8.37,eia.gov,False,,2021
+2021-10-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.7,442.03,20.11,3.1,eia.gov,False,,2021
+2021-10-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.11,431.16,21.44,4.68,eia.gov,False,,2021
+2021-10-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.43,422.76,22.3,4.72,eia.gov,False,,2021
+2021-10-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.53,439.61,19.45,1.96,eia.gov,False,,2021
+2021-10-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.47,417.08,22.22,3.87,eia.gov,False,,2021
+2021-10-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.9,391.2,27.71,7.29,eia.gov,False,,2021
+2021-10-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.64,379.9,29.88,9.17,eia.gov,False,,2021
+2021-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.45,400.39,26.05,5.22,eia.gov,False,,2021
+2021-11-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.89,409.23,24.55,4.3,eia.gov,False,,2021
+2021-11-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.36,409.01,24.32,4.9,eia.gov,False,,2021
+2021-11-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.79,421.22,22.32,2.48,eia.gov,False,,2021
+2021-11-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.2,424.12,21.65,0.83,eia.gov,False,,2021
+2021-11-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.77,399.82,26.41,4.13,eia.gov,False,,2021
+2021-11-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.68,379.48,30.59,6.45,eia.gov,False,,2021
+2021-11-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.11,374.31,31.37,7.2,eia.gov,False,,2021
+2021-11-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.12,387.94,28.62,5.49,eia.gov,False,,2021
+2021-11-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.9,397.63,25.77,4.28,eia.gov,False,,2021
+2021-11-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.57,408.03,23.13,3.23,eia.gov,False,,2021
+2021-11-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.59,414.05,22.06,2.25,eia.gov,False,,2021
+2021-11-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.29,400.23,24.6,4.13,eia.gov,False,,2021
+2021-11-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.29,390.12,27.76,5.47,eia.gov,False,,2021
+2021-11-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.14,382.96,29.75,6.73,eia.gov,False,,2021
+2021-11-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.07,383.4,29.26,6.45,eia.gov,False,,2021
+2021-11-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.54,408.7,25.23,4.4,eia.gov,False,,2021
+2021-11-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.97,432.27,20.85,1.37,eia.gov,False,,2021
+2021-11-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.71,404.33,24.02,3.89,eia.gov,False,,2021
+2021-11-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.5,404.22,23.83,2.81,eia.gov,False,,2021
+2021-11-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.5,391.85,26.06,2.86,eia.gov,False,,2021
+2021-11-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.49,384.6,27.33,3.33,eia.gov,False,,2021
+2021-11-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.09,348.68,35.69,6.71,eia.gov,False,,2021
+2021-11-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.09,353.94,35.21,5.51,eia.gov,False,,2021
+2021-11-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.14,359.64,33.55,4.19,eia.gov,False,,2021
+2021-11-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.27,349.63,35.64,5.25,eia.gov,False,,2021
+2021-11-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.05,343.3,36.86,6.77,eia.gov,False,,2021
+2021-11-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.1,349.61,35.53,4.78,eia.gov,False,,2021
+2021-11-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.15,343.32,36.98,6.59,eia.gov,False,,2021
+2021-11-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.37,349.97,35.58,6.22,eia.gov,False,,2021
+2021-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.57,356.58,33.3,5.26,eia.gov,False,,2021
+2021-12-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.77,347.67,34.52,5.88,eia.gov,False,,2021
+2021-12-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.37,343.66,35.08,5.93,eia.gov,False,,2021
+2021-12-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.59,347.0,34.73,4.77,eia.gov,False,,2021
+2021-12-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.17,361.37,32.9,4.43,eia.gov,False,,2021
+2021-12-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.79,374.78,30.18,3.76,eia.gov,False,,2021
+2021-12-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.46,373.02,30.59,4.19,eia.gov,False,,2021
+2021-12-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.24,373.9,30.52,4.52,eia.gov,False,,2021
+2021-12-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.39,385.79,27.76,3.03,eia.gov,False,,2021
+2021-12-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.17,390.11,26.5,4.17,eia.gov,False,,2021
+2021-12-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.38,405.62,23.38,4.32,eia.gov,False,,2021
+2021-12-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.22,393.4,26.19,3.91,eia.gov,False,,2021
+2021-12-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.71,378.9,29.03,3.7,eia.gov,False,,2021
+2021-12-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.0,382.79,28.35,2.82,eia.gov,False,,2021
+2021-12-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.04,376.69,29.59,3.9,eia.gov,False,,2021
+2021-12-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.95,376.26,30.09,4.11,eia.gov,False,,2021
+2021-12-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.03,367.06,31.21,4.85,eia.gov,False,,2021
+2021-12-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.74,381.18,29.87,3.72,eia.gov,False,,2021
+2021-12-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.37,383.47,29.13,3.41,eia.gov,False,,2021
+2021-12-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.87,391.15,27.95,2.6,eia.gov,False,,2021
+2021-12-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.62,398.8,26.98,1.14,eia.gov,False,,2021
+2021-12-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.1,368.7,33.69,5.51,eia.gov,False,,2021
+2021-12-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.76,372.31,34.45,6.04,eia.gov,False,,2021
+2021-12-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.4,367.31,34.27,5.62,eia.gov,False,,2021
+2021-12-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,270.11,352.65,35.68,6.03,eia.gov,False,,2021
+2021-12-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.65,335.96,39.35,10.94,eia.gov,False,,2021
+2021-12-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.61,362.46,33.44,5.07,eia.gov,False,,2021
+2021-12-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.44,366.3,32.48,4.51,eia.gov,False,,2021
+2021-12-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.04,363.92,32.5,5.08,eia.gov,False,,2021
+2021-12-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.17,361.61,33.27,7.7,eia.gov,False,,2021
+2021-12-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.01,378.57,29.91,4.11,eia.gov,False,,2021
+2022-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.72,360.77,33.06,3.6,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2022
+2022-01-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.11,359.66,33.51,3.83,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2022
+2022-01-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.08,369.74,31.86,5.17,eia.gov; Electricity Maps Estimation,False,,2022
+2022-01-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.77,370.55,32.54,4.64,eia.gov,False,,2022
+2022-01-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.13,378.8,30.58,3.4,eia.gov,False,,2022
+2022-01-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.22,374.79,31.75,5.15,eia.gov,False,,2022
+2022-01-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.95,409.57,24.23,4.78,eia.gov,False,,2022
+2022-01-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.94,413.47,24.25,5.02,eia.gov,False,,2022
+2022-01-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.28,419.38,23.48,4.27,eia.gov,False,,2022
+2022-01-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.73,425.31,22.1,3.49,eia.gov,False,,2022
+2022-01-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.99,397.36,24.9,4.9,eia.gov,False,,2022
+2022-01-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.01,392.38,24.77,4.33,eia.gov,False,,2022
+2022-01-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.94,393.81,25.19,4.74,eia.gov,False,,2022
+2022-01-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.89,370.82,30.47,10.66,eia.gov,False,,2022
+2022-01-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.03,386.96,27.12,6.16,eia.gov,False,,2022
+2022-01-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.71,406.33,23.26,1.92,eia.gov,False,,2022
+2022-01-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.61,410.46,26.78,5.9,eia.gov,False,,2022
+2022-01-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.35,403.61,26.6,6.58,eia.gov,False,,2022
+2022-01-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.51,404.56,25.0,5.2,eia.gov,False,,2022
+2022-01-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.49,424.42,24.41,4.37,eia.gov,False,,2022
+2022-01-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.04,415.91,27.08,3.15,eia.gov,False,,2022
+2022-01-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.45,382.62,29.42,4.01,eia.gov,False,,2022
+2022-01-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.39,398.78,28.63,2.75,eia.gov,False,,2022
+2022-01-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.82,392.98,30.33,8.69,eia.gov,False,,2022
+2022-01-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.25,413.59,26.48,2.04,eia.gov,False,,2022
+2022-01-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.82,412.69,27.85,1.23,eia.gov,False,,2022
+2022-01-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.52,388.46,31.05,3.66,eia.gov,False,,2022
+2022-01-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.43,394.57,30.61,2.96,eia.gov,False,,2022
+2022-01-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.01,395.57,31.41,5.86,eia.gov,False,,2022
+2022-01-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.13,414.59,24.81,4.21,eia.gov,False,,2022
+2022-01-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.51,390.26,27.75,5.29,eia.gov,False,,2022
+2022-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.91,376.62,31.66,5.83,eia.gov,False,,2022
+2022-02-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.88,363.17,34.92,6.67,eia.gov,False,,2022
+2022-02-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.82,362.5,34.61,6.8,eia.gov,False,,2022
+2022-02-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.15,370.21,32.17,5.58,eia.gov,False,,2022
+2022-02-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.66,385.1,29.45,2.43,eia.gov,False,,2022
+2022-02-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.01,387.71,30.23,4.64,eia.gov,False,,2022
+2022-02-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.7,392.29,29.32,3.82,eia.gov,False,,2022
+2022-02-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.87,406.55,26.16,1.66,eia.gov,False,,2022
+2022-02-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.61,388.52,30.99,5.31,eia.gov,False,,2022
+2022-02-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.67,379.06,32.69,7.09,eia.gov,False,,2022
+2022-02-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.71,380.92,32.85,6.2,eia.gov,False,,2022
+2022-02-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.08,381.57,32.57,5.82,eia.gov,False,,2022
+2022-02-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.05,369.72,34.46,7.38,eia.gov,False,,2022
+2022-02-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.83,371.06,34.82,8.0,eia.gov,False,,2022
+2022-02-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.78,396.11,30.66,4.78,eia.gov,False,,2022
+2022-02-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.81,362.32,34.61,6.62,eia.gov,False,,2022
+2022-02-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.14,373.6,31.81,5.41,eia.gov,False,,2022
+2022-02-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.18,381.19,29.34,4.57,eia.gov,False,,2022
+2022-02-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.95,375.47,29.78,4.56,eia.gov,False,,2022
+2022-02-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.35,340.36,35.62,7.63,eia.gov,False,,2022
+2022-02-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.38,358.84,33.81,6.93,eia.gov,False,,2022
+2022-02-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.07,362.48,31.9,6.06,eia.gov,False,,2022
+2022-02-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.24,369.98,30.37,5.6,eia.gov,False,,2022
+2022-02-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.72,380.26,30.35,6.05,eia.gov,False,,2022
+2022-02-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.28,380.79,30.39,6.35,eia.gov,False,,2022
+2022-02-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.52,360.94,33.71,11.08,eia.gov,False,,2022
+2022-02-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.13,351.3,33.99,10.58,eia.gov,False,,2022
+2022-02-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.03,359.75,30.17,4.9,eia.gov,False,,2022
+2022-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.55,352.36,32.81,5.77,eia.gov,False,,2022
+2022-03-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.56,335.32,35.99,7.68,eia.gov,False,,2022
+2022-03-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,258.09,341.87,34.03,6.75,eia.gov,False,,2022
+2022-03-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,258.67,342.15,34.37,7.51,eia.gov,False,,2022
+2022-03-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.8,348.17,33.39,6.92,eia.gov,False,,2022
+2022-03-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.32,349.02,33.07,7.19,eia.gov,False,,2022
+2022-03-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.16,365.0,29.78,5.07,eia.gov,False,,2022
+2022-03-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.57,377.43,28.7,5.03,eia.gov,False,,2022
+2022-03-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.56,368.53,28.81,5.08,eia.gov,False,,2022
+2022-03-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.67,373.0,28.33,4.04,eia.gov,False,,2022
+2022-03-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.33,382.02,26.21,4.87,eia.gov,False,,2022
+2022-03-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.35,376.64,27.48,10.12,eia.gov,False,,2022
+2022-03-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.25,347.77,36.06,17.06,eia.gov,False,,2022
+2022-03-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.68,382.45,28.97,7.17,eia.gov,False,,2022
+2022-03-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.1,400.72,24.89,4.29,eia.gov,False,,2022
+2022-03-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.41,401.02,24.07,5.17,eia.gov,False,,2022
+2022-03-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.36,395.95,25.25,6.82,eia.gov,False,,2022
+2022-03-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.37,400.33,23.88,6.16,eia.gov,False,,2022
+2022-03-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.26,408.8,23.31,5.78,eia.gov,False,,2022
+2022-03-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.03,408.99,24.1,6.27,eia.gov,False,,2022
+2022-03-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.77,379.63,26.98,7.91,eia.gov,False,,2022
+2022-03-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.25,376.48,26.47,7.24,eia.gov,False,,2022
+2022-03-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.55,411.14,22.33,4.81,eia.gov,False,,2022
+2022-03-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.17,423.79,20.41,3.39,eia.gov,False,,2022
+2022-03-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.27,394.33,27.12,7.58,eia.gov,False,,2022
+2022-03-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.97,377.5,31.63,9.55,eia.gov,False,,2022
+2022-03-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.59,375.74,31.92,9.7,eia.gov,False,,2022
+2022-03-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.68,386.58,29.23,8.65,eia.gov,False,,2022
+2022-03-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.7,392.29,27.62,8.13,eia.gov,False,,2022
+2022-03-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.04,400.29,25.96,7.2,eia.gov,False,,2022
+2022-03-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.23,416.33,22.0,4.32,eia.gov,False,,2022
+2022-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.3,418.87,21.45,4.3,eia.gov,False,,2022
+2022-04-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.17,427.22,20.55,3.4,eia.gov,False,,2022
+2022-04-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.31,412.6,24.31,4.99,eia.gov,False,,2022
+2022-04-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.66,412.8,23.79,5.31,eia.gov,False,,2022
+2022-04-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.71,419.28,22.34,5.54,eia.gov,False,,2022
+2022-04-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.72,427.74,20.75,4.85,eia.gov,False,,2022
+2022-04-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.53,431.08,19.91,3.72,eia.gov,False,,2022
+2022-04-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.54,395.93,26.46,7.81,eia.gov,False,,2022
+2022-04-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.7,364.65,31.95,9.37,eia.gov,False,,2022
+2022-04-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.63,357.9,33.9,10.41,eia.gov,False,,2022
+2022-04-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.66,389.83,29.71,8.89,eia.gov,False,,2022
+2022-04-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.52,383.79,29.56,7.78,eia.gov,False,,2022
+2022-04-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.65,405.48,25.86,5.97,eia.gov,False,,2022
+2022-04-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.65,417.62,24.43,4.87,eia.gov,False,,2022
+2022-04-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.32,410.97,26.56,4.95,eia.gov,False,,2022
+2022-04-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.36,398.74,28.84,6.39,eia.gov,False,,2022
+2022-04-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.88,403.49,27.64,5.88,eia.gov,False,,2022
+2022-04-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.97,399.65,26.69,5.3,eia.gov,False,,2022
+2022-04-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.82,388.3,29.96,7.62,eia.gov,False,,2022
+2022-04-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.84,385.99,31.11,6.9,eia.gov,False,,2022
+2022-04-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.52,395.0,30.63,6.39,eia.gov,False,,2022
+2022-04-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.97,388.51,30.47,6.59,eia.gov,False,,2022
+2022-04-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.86,386.06,30.78,6.79,eia.gov,False,,2022
+2022-04-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.43,387.13,30.3,6.61,eia.gov,False,,2022
+2022-04-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.72,391.84,28.99,6.7,eia.gov,False,,2022
+2022-04-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.49,395.34,28.24,6.17,eia.gov,False,,2022
+2022-04-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.59,392.26,28.49,5.93,eia.gov,False,,2022
+2022-04-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.11,382.77,28.69,5.88,eia.gov,False,,2022
+2022-04-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.08,378.55,28.93,5.24,eia.gov,False,,2022
+2022-04-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.29,371.89,30.69,5.7,eia.gov,False,,2022
+2022-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.92,376.1,30.07,5.71,eia.gov,False,,2022
+2022-05-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.8,385.72,28.51,6.07,eia.gov,False,,2022
+2022-05-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.03,391.36,27.09,5.03,eia.gov,False,,2022
+2022-05-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.04,394.05,27.38,5.83,eia.gov,False,,2022
+2022-05-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.01,395.5,26.98,6.22,eia.gov,False,,2022
+2022-05-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.72,399.44,25.77,5.78,eia.gov,False,,2022
+2022-05-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.08,393.76,25.73,4.53,eia.gov,False,,2022
+2022-05-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.6,380.55,29.38,7.0,eia.gov,False,,2022
+2022-05-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.62,366.79,30.63,11.24,eia.gov,False,,2022
+2022-05-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.1,368.5,30.87,7.68,eia.gov,False,,2022
+2022-05-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.0,363.89,32.32,7.74,eia.gov,False,,2022
+2022-05-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.86,375.34,30.62,6.32,eia.gov,False,,2022
+2022-05-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.98,384.25,28.94,5.6,eia.gov,False,,2022
+2022-05-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.66,380.72,29.42,6.61,eia.gov,False,,2022
+2022-05-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.22,384.28,28.31,5.96,eia.gov,False,,2022
+2022-05-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.0,384.0,28.47,6.73,eia.gov,False,,2022
+2022-05-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.3,389.36,27.37,6.14,eia.gov,False,,2022
+2022-05-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.06,397.1,25.35,4.95,eia.gov,False,,2022
+2022-05-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.53,396.97,25.16,5.47,eia.gov,False,,2022
+2022-05-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.09,403.63,23.88,3.19,eia.gov,False,,2022
+2022-05-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.61,394.31,25.77,4.43,eia.gov,False,,2022
+2022-05-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.86,394.93,25.48,5.23,eia.gov,False,,2022
+2022-05-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.16,398.68,25.01,5.39,eia.gov,False,,2022
+2022-05-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.43,396.24,25.63,5.51,eia.gov,False,,2022
+2022-05-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.4,396.15,25.66,5.42,eia.gov,False,,2022
+2022-05-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.59,392.44,25.56,5.49,eia.gov,False,,2022
+2022-05-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.14,392.38,25.19,4.99,eia.gov,False,,2022
+2022-05-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.31,384.24,26.54,5.54,eia.gov,False,,2022
+2022-05-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.63,375.81,29.41,7.65,eia.gov; Electricity Maps Estimation,False,,2022
+2022-05-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.58,380.08,28.97,6.05,eia.gov,False,,2022
+2022-05-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.97,384.17,27.36,5.23,eia.gov,False,,2022
+2022-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.46,403.18,22.16,3.84,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2022
+2022-06-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.86,383.57,26.91,4.25,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2022
+2022-06-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.51,385.55,26.9,2.48,eia.gov; Electricity Maps Estimation,False,,2022
+2022-06-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.51,372.02,30.4,3.62,eia.gov,False,,2022
+2022-06-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.5,381.82,28.04,5.54,eia.gov,False,,2022
+2022-06-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.57,395.41,24.66,4.44,eia.gov,False,,2022
+2022-06-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.81,390.81,25.52,5.0,eia.gov,False,,2022
+2022-06-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.48,386.43,25.57,4.56,eia.gov,False,,2022
+2022-06-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.63,393.91,25.1,4.01,eia.gov,False,,2022
+2022-06-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.49,392.2,25.75,4.46,eia.gov,False,,2022
+2022-06-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.84,387.41,26.88,4.49,eia.gov,False,,2022
+2022-06-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.13,390.63,26.08,5.12,eia.gov,False,,2022
+2022-06-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.5,401.22,23.97,5.08,eia.gov,False,,2022
+2022-06-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.59,406.48,22.77,4.65,eia.gov,False,,2022
+2022-06-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.98,404.03,23.66,5.32,eia.gov,False,,2022
+2022-06-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.17,407.39,23.66,5.44,eia.gov,False,,2022
+2022-06-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.84,403.02,23.6,5.36,eia.gov,False,,2022
+2022-06-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.89,401.89,23.62,4.6,eia.gov,False,,2022
+2022-06-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.64,394.1,25.17,4.75,eia.gov,False,,2022
+2022-06-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.81,397.93,24.43,4.69,eia.gov,False,,2022
+2022-06-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.9,387.27,26.32,6.01,eia.gov,False,,2022
+2022-06-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.85,388.21,26.32,5.83,eia.gov,False,,2022
+2022-06-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.34,389.99,26.01,6.14,eia.gov,False,,2022
+2022-06-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.03,402.52,23.14,4.42,eia.gov,False,,2022
+2022-06-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.13,399.36,24.49,4.74,eia.gov,False,,2022
+2022-06-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.94,402.93,24.76,4.44,eia.gov,False,,2022
+2022-06-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.01,402.22,24.61,5.1,eia.gov,False,,2022
+2022-06-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.77,401.29,24.34,5.16,eia.gov,False,,2022
+2022-06-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.94,404.15,23.65,4.18,eia.gov,False,,2022
+2022-06-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.84,407.34,23.35,4.21,eia.gov,False,,2022
+2022-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.03,406.42,23.46,4.08,eia.gov,False,,2022
+2022-07-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.98,404.02,23.81,4.06,eia.gov,False,,2022
+2022-07-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.03,402.93,23.93,4.13,eia.gov,False,,2022
+2022-07-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.45,399.72,24.58,5.1,eia.gov,False,,2022
+2022-07-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.07,407.04,22.98,4.73,eia.gov,False,,2022
+2022-07-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.93,410.27,22.55,4.13,eia.gov,False,,2022
+2022-07-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.76,406.32,23.32,4.55,eia.gov,False,,2022
+2022-07-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.42,407.02,23.23,4.52,eia.gov,False,,2022
+2022-07-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.67,405.99,23.5,4.74,eia.gov,False,,2022
+2022-07-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.88,404.86,23.82,4.66,eia.gov,False,,2022
+2022-07-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.28,407.79,23.21,4.43,eia.gov,False,,2022
+2022-07-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.08,406.34,23.55,5.08,eia.gov,False,,2022
+2022-07-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.88,418.75,21.96,4.49,eia.gov,False,,2022
+2022-07-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.86,420.05,22.61,4.57,eia.gov,False,,2022
+2022-07-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.07,409.52,24.36,5.44,eia.gov,False,,2022
+2022-07-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.11,402.84,23.69,3.87,eia.gov,False,,2022
+2022-07-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.78,406.13,25.27,4.78,eia.gov,False,,2022
+2022-07-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.99,417.01,22.86,4.64,eia.gov,False,,2022
+2022-07-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.3,418.05,22.16,4.41,eia.gov,False,,2022
+2022-07-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.83,418.45,22.38,4.91,eia.gov,False,,2022
+2022-07-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.51,418.22,22.24,4.81,eia.gov,False,,2022
+2022-07-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.35,423.19,21.97,4.32,eia.gov,False,,2022
+2022-07-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.08,418.65,23.2,4.64,eia.gov,False,,2022
+2022-07-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.16,416.35,23.62,5.2,eia.gov,False,,2022
+2022-07-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.61,418.39,23.01,5.08,eia.gov,False,,2022
+2022-07-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.9,418.14,23.44,4.36,eia.gov,False,,2022
+2022-07-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.28,415.77,24.25,5.48,eia.gov,False,,2022
+2022-07-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.17,418.81,23.2,5.6,eia.gov,False,,2022
+2022-07-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.69,422.85,22.68,5.54,eia.gov,False,,2022
+2022-07-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.79,419.35,23.36,5.8,eia.gov,False,,2022
+2022-07-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.78,419.33,23.37,5.85,eia.gov,False,,2022
+2022-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.32,429.72,21.5,4.81,eia.gov,False,,2022
+2022-08-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.5,428.72,21.67,4.64,eia.gov,False,,2022
+2022-08-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.67,417.82,23.68,5.48,eia.gov,False,,2022
+2022-08-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.75,418.4,23.23,5.46,eia.gov,False,,2022
+2022-08-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.59,419.7,22.78,5.25,eia.gov,False,,2022
+2022-08-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.95,417.59,23.25,5.29,eia.gov,False,,2022
+2022-08-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.53,417.92,23.42,5.1,eia.gov,False,,2022
+2022-08-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.31,423.87,22.33,4.39,eia.gov,False,,2022
+2022-08-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.8,424.77,22.06,4.07,eia.gov,False,,2022
+2022-08-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.39,419.81,22.5,4.94,eia.gov,False,,2022
+2022-08-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.17,422.67,21.31,3.81,eia.gov,False,,2022
+2022-08-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.66,418.34,22.2,4.22,eia.gov,False,,2022
+2022-08-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.84,420.2,23.32,4.24,eia.gov,False,,2022
+2022-08-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.91,413.11,25.43,5.4,eia.gov,False,,2022
+2022-08-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.09,413.82,24.95,5.57,eia.gov,False,,2022
+2022-08-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.12,417.29,23.63,5.13,eia.gov,False,,2022
+2022-08-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.5,419.35,22.97,4.99,eia.gov,False,,2022
+2022-08-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.98,425.25,21.5,3.87,eia.gov,False,,2022
+2022-08-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.84,420.92,22.76,4.97,eia.gov,False,,2022
+2022-08-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.19,418.57,22.53,5.06,eia.gov,False,,2022
+2022-08-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.53,423.67,21.74,4.49,eia.gov,False,,2022
+2022-08-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.13,425.4,21.57,4.35,eia.gov,False,,2022
+2022-08-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.05,425.96,21.85,4.35,eia.gov,False,,2022
+2022-08-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.13,426.49,21.44,3.99,eia.gov,False,,2022
+2022-08-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.26,426.68,21.31,3.73,eia.gov,False,,2022
+2022-08-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.14,423.07,21.93,4.14,eia.gov,False,,2022
+2022-08-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.05,422.35,22.52,4.16,eia.gov,False,,2022
+2022-08-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.5,419.12,23.11,3.96,eia.gov,False,,2022
+2022-08-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.29,416.23,23.82,4.6,eia.gov,False,,2022
+2022-08-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.29,422.79,22.28,4.38,eia.gov,False,,2022
+2022-08-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.96,418.15,22.57,4.63,eia.gov,False,,2022
+2022-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.86,417.85,22.68,4.31,eia.gov,False,,2022
+2022-09-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.98,422.33,21.62,4.63,eia.gov,False,,2022
+2022-09-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,334.64,434.94,18.89,4.77,eia.gov,False,,2022
+2022-09-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.06,431.19,19.17,5.27,eia.gov,False,,2022
+2022-09-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.06,433.64,18.68,5.04,eia.gov,False,,2022
+2022-09-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.14,437.16,18.26,5.16,eia.gov,False,,2022
+2022-09-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,343.53,444.59,18.05,4.74,eia.gov,False,,2022
+2022-09-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.45,445.56,17.88,3.46,eia.gov,False,,2022
+2022-09-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.5,435.35,19.27,4.01,eia.gov,False,,2022
+2022-09-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.52,437.17,18.52,3.83,eia.gov,False,,2022
+2022-09-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.39,437.07,18.55,4.44,eia.gov,False,,2022
+2022-09-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.61,435.96,18.91,4.73,eia.gov,False,,2022
+2022-09-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.99,443.18,18.95,4.67,eia.gov,False,,2022
+2022-09-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.5,439.51,20.03,4.66,eia.gov,False,,2022
+2022-09-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.12,431.53,20.62,4.62,eia.gov,False,,2022
+2022-09-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,337.26,435.75,20.41,4.38,eia.gov,False,,2022
+2022-09-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.13,440.35,20.61,4.59,eia.gov,False,,2022
+2022-09-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,339.36,436.75,21.52,5.41,eia.gov,False,,2022
+2022-09-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.11,443.22,19.83,4.87,eia.gov,False,,2022
+2022-09-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.69,445.79,18.76,4.57,eia.gov,False,,2022
+2022-09-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,348.93,448.89,19.05,5.1,eia.gov,False,,2022
+2022-09-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.2,444.43,19.67,5.65,eia.gov,False,,2022
+2022-09-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.56,444.88,19.45,5.29,eia.gov,False,,2022
+2022-09-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,345.37,444.59,19.66,4.92,eia.gov,False,,2022
+2022-09-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,342.73,441.92,19.74,4.89,eia.gov,False,,2022
+2022-09-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,341.42,441.37,18.97,4.41,eia.gov,False,,2022
+2022-09-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,340.78,440.17,19.38,2.57,eia.gov,False,,2022
+2022-09-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,337.02,435.63,19.98,2.02,eia.gov,False,,2022
+2022-09-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.72,430.14,23.97,3.42,eia.gov,False,,2022
+2022-09-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.53,401.04,28.76,7.14,eia.gov,False,,2022
+2022-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.79,408.65,26.73,6.72,eia.gov,False,,2022
+2022-10-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.09,403.23,26.75,7.23,eia.gov,False,,2022
+2022-10-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.53,409.7,24.9,6.57,eia.gov,False,,2022
+2022-10-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.59,406.61,25.07,6.77,eia.gov,False,,2022
+2022-10-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.85,392.83,27.94,6.9,eia.gov,False,,2022
+2022-10-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.76,366.53,31.0,7.23,eia.gov,False,,2022
+2022-10-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.77,372.73,30.99,7.22,eia.gov,False,,2022
+2022-10-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.18,381.4,30.47,6.17,eia.gov,False,,2022
+2022-10-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.56,389.29,29.04,5.27,eia.gov,False,,2022
+2022-10-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.56,398.81,26.63,5.31,eia.gov,False,,2022
+2022-10-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.82,411.63,24.13,4.31,eia.gov,False,,2022
+2022-10-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.78,420.18,22.47,3.04,eia.gov,False,,2022
+2022-10-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.85,401.91,24.84,3.58,eia.gov,False,,2022
+2022-10-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.79,394.16,27.57,5.55,eia.gov,False,,2022
+2022-10-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.26,392.44,27.78,5.81,eia.gov,False,,2022
+2022-10-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.0,393.99,28.03,6.37,eia.gov,False,,2022
+2022-10-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.23,408.46,24.96,4.63,eia.gov,False,,2022
+2022-10-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.25,399.16,26.2,4.51,eia.gov,False,,2022
+2022-10-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.22,386.37,30.67,4.46,eia.gov,False,,2022
+2022-10-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.61,371.94,34.4,6.28,eia.gov,False,,2022
+2022-10-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.17,365.01,34.94,7.86,eia.gov,False,,2022
+2022-10-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.85,364.74,34.94,7.9,eia.gov,False,,2022
+2022-10-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.95,372.68,33.16,7.42,eia.gov,False,,2022
+2022-10-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.87,392.28,29.48,5.7,eia.gov,False,,2022
+2022-10-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.06,389.7,29.25,6.06,eia.gov,False,,2022
+2022-10-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.02,376.08,29.41,6.02,eia.gov,False,,2022
+2022-10-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.04,393.94,27.44,5.38,eia.gov,False,,2022
+2022-10-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.51,416.1,25.85,4.55,eia.gov,False,,2022
+2022-10-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,330.93,424.5,24.84,3.31,eia.gov,False,,2022
+2022-10-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.58,420.01,26.01,4.72,eia.gov,False,,2022
+2022-10-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,332.46,425.9,25.0,4.67,eia.gov,False,,2022
+2022-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.63,427.25,24.69,4.91,eia.gov,False,,2022
+2022-11-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.73,430.26,23.78,4.45,eia.gov,False,,2022
+2022-11-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.66,420.12,26.09,7.53,eia.gov,False,,2022
+2022-11-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,328.52,420.41,26.41,5.47,eia.gov,False,,2022
+2022-11-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.36,422.85,26.56,4.69,eia.gov,False,,2022
+2022-11-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.54,428.41,25.28,4.48,eia.gov; Electricity Maps Estimation,False,,2022
+2022-11-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,333.82,425.69,26.16,5.03,eia.gov; Electricity Maps Estimation,False,,2022
+2022-11-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.44,420.8,26.77,5.16,eia.gov,False,,2022
+2022-11-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,335.43,427.63,25.66,2.19,eia.gov,False,,2022
+2022-11-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.28,418.05,26.37,2.17,eia.gov,False,,2022
+2022-11-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.05,414.01,26.42,4.23,eia.gov,False,,2022
+2022-11-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.45,413.12,26.62,4.56,eia.gov,False,,2022
+2022-11-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.01,402.93,28.09,4.87,eia.gov,False,,2022
+2022-11-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.71,412.14,26.59,4.84,eia.gov,False,,2022
+2022-11-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.3,425.83,23.51,3.37,eia.gov,False,,2022
+2022-11-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.06,404.24,24.96,4.11,eia.gov,False,,2022
+2022-11-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.63,387.69,28.06,5.48,eia.gov,False,,2022
+2022-11-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.59,391.54,30.07,5.45,eia.gov,False,,2022
+2022-11-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.34,387.44,30.83,4.68,eia.gov,False,,2022
+2022-11-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.28,404.74,27.2,1.27,eia.gov,False,,2022
+2022-11-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.09,397.87,28.24,3.29,eia.gov,False,,2022
+2022-11-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.94,407.84,25.95,2.11,eia.gov,False,,2022
+2022-11-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.06,403.33,26.8,3.03,eia.gov,False,,2022
+2022-11-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.19,391.34,26.74,3.54,eia.gov,False,,2022
+2022-11-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.17,388.15,26.89,3.68,eia.gov,False,,2022
+2022-11-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.01,389.38,26.5,3.36,eia.gov,False,,2022
+2022-11-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.8,382.32,27.34,4.31,eia.gov,False,,2022
+2022-11-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.12,381.88,27.07,3.82,eia.gov,False,,2022
+2022-11-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.66,370.63,29.7,5.58,eia.gov,False,,2022
+2022-11-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.27,385.9,26.85,4.14,eia.gov,False,,2022
+2022-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.42,374.17,29.16,5.42,eia.gov,False,,2022
+2022-12-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.14,372.81,29.15,5.18,eia.gov,False,,2022
+2022-12-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.23,370.38,29.62,5.07,eia.gov,False,,2022
+2022-12-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.21,369.87,30.06,4.69,eia.gov,False,,2022
+2022-12-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.99,371.88,29.85,4.88,eia.gov,False,,2022
+2022-12-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.98,377.04,28.77,4.82,eia.gov,False,,2022
+2022-12-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.38,403.63,23.73,4.97,eia.gov,False,,2022
+2022-12-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.04,405.5,23.5,4.89,eia.gov,False,,2022
+2022-12-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.8,384.58,28.96,5.58,eia.gov,False,,2022
+2022-12-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.96,378.67,29.92,4.64,eia.gov,False,,2022
+2022-12-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.52,380.31,29.71,3.4,eia.gov,False,,2022
+2022-12-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.51,376.3,29.93,4.0,eia.gov,False,,2022
+2022-12-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.17,378.98,29.78,4.11,eia.gov,False,,2022
+2022-12-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.93,382.93,28.84,4.25,eia.gov,False,,2022
+2022-12-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.45,395.66,26.38,2.71,eia.gov,False,,2022
+2022-12-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.71,381.5,29.01,3.93,eia.gov,False,,2022
+2022-12-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.71,369.13,31.27,4.12,eia.gov,False,,2022
+2022-12-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.26,362.4,32.81,6.24,eia.gov,False,,2022
+2022-12-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.87,368.32,31.76,6.27,eia.gov,False,,2022
+2022-12-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.34,390.55,26.78,1.85,eia.gov,False,,2022
+2022-12-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.08,388.37,27.6,2.3,eia.gov,False,,2022
+2022-12-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.82,403.73,26.75,2.5,eia.gov,False,,2022
+2022-12-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.15,410.83,28.46,4.98,eia.gov,False,,2022
+2022-12-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,337.93,431.2,25.3,3.95,eia.gov,False,,2022
+2022-12-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,344.99,442.04,21.59,2.64,eia.gov,False,,2022
+2022-12-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,346.96,444.94,20.59,2.07,eia.gov,False,,2022
+2022-12-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.28,414.8,27.0,5.08,eia.gov,False,,2022
+2022-12-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.94,403.11,30.2,5.84,eia.gov,False,,2022
+2022-12-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.79,398.06,31.9,6.11,eia.gov,False,,2022
+2022-12-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.82,391.06,29.9,4.34,eia.gov,False,,2022
+2022-12-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.71,389.91,29.19,3.97,eia.gov,False,,2022
+2023-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.27,355.22,34.57,8.02,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.69,347.89,37.07,8.71,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.45,348.52,37.11,8.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,265.58,345.91,37.73,8.88,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.89,343.4,37.73,8.89,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.95,341.48,37.82,8.92,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.22,355.92,37.18,8.83,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.01,361.69,36.99,8.72,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.15,363.96,36.81,8.77,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.7,360.53,36.93,8.87,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.52,357.2,37.13,8.82,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.54,353.18,37.3,8.92,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.43,349.79,37.63,8.9,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.59,354.3,37.2,8.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.87,352.43,37.37,8.99,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.53,346.95,37.65,9.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.19,336.24,38.34,9.25,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.07,335.82,38.57,9.17,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.9,334.36,38.83,9.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.85,334.34,38.81,9.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.04,336.62,38.66,9.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.13,336.7,38.66,9.08,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.11,335.38,38.93,9.26,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.93,333.08,39.1,9.36,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.01,336.25,38.89,9.18,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.63,333.57,39.22,9.25,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,265.72,345.23,38.38,9.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.5,333.46,39.19,9.26,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.47,332.32,39.34,9.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,252.26,331.03,39.43,9.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-01-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.73,330.29,39.61,9.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.24,331.87,39.44,9.28,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.19,332.67,39.54,9.33,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.43,335.2,39.26,9.26,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,252.48,330.86,39.71,9.43,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.45,329.72,39.83,9.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,250.39,328.71,39.76,9.26,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.89,330.12,39.84,9.51,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,250.18,328.24,40.04,9.57,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,248.65,326.45,40.28,9.57,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.73,327.65,40.14,9.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.1,326.92,40.27,9.51,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.62,330.26,39.53,9.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,245.6,323.65,40.25,9.83,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,211.33,284.95,44.35,12.31,eia.gov; Electricity Maps Estimation,False,,2023
+2023-02-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,202.28,272.87,47.32,14.14,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,208.3,280.27,45.88,13.49,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,223.81,297.88,43.58,12.86,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.47,323.62,41.06,12.26,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,255.4,333.34,39.27,11.59,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,255.05,334.25,38.21,11.31,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,255.69,336.56,36.81,11.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.03,339.27,35.62,10.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.99,345.74,34.17,10.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,268.36,353.6,32.7,9.88,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.22,352.64,31.72,9.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,265.24,352.89,30.72,9.3,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.47,356.4,29.59,9.07,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-02-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.66,361.61,28.55,8.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.16,358.24,29.33,9.14,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.83,364.06,28.18,8.72,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.4,368.52,27.32,8.5,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.86,391.61,25.83,7.24,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.83,390.71,26.97,8.6,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.32,387.23,27.88,8.85,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.6,386.02,28.35,8.93,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.35,387.94,29.08,9.24,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.55,381.76,29.71,9.42,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.15,379.66,29.4,9.25,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.76,382.77,28.89,9.28,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.05,400.93,25.59,4.11,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.84,392.04,28.23,5.99,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.11,389.55,28.36,7.27,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.48,378.17,31.18,10.66,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.38,379.45,29.78,9.96,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.76,369.45,32.01,10.52,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.85,352.1,36.25,11.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.58,318.03,42.21,13.62,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,231.41,300.66,48.73,16.4,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,226.28,294.97,49.21,15.72,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.55,349.63,36.19,9.2,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.24,354.65,34.91,8.89,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.83,352.45,35.62,9.06,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,270.72,353.42,35.46,9.03,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.01,348.91,36.2,9.23,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.06,351.56,35.57,9.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.15,343.08,37.05,9.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,259.19,339.75,37.46,9.65,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-03-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.98,353.06,33.46,9.53,eia.gov; Electricity Maps Estimation,False,,2023
+2023-03-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.84,359.54,31.73,8.61,eia.gov,False,,2023
+2023-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.98,366.67,30.48,7.71,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.61,367.59,30.2,7.73,eia.gov,False,,2023
+2023-04-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.83,377.58,28.4,6.84,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.8,376.05,28.05,6.68,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.38,372.56,29.06,7.97,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.94,373.01,29.09,7.91,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.88,382.77,27.34,7.48,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.38,395.36,24.41,5.93,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.35,399.43,23.39,4.59,eia.gov,False,,2023
+2023-04-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.5,384.52,26.46,6.39,eia.gov,False,,2023
+2023-04-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.61,371.37,28.63,7.73,eia.gov; Electricity Maps Estimation,False,,2023
+2023-04-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.43,384.76,27.43,7.85,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.65,386.25,27.13,7.71,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.12,387.8,27.0,7.67,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.56,394.6,26.49,7.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.53,393.34,26.69,7.14,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.11,387.66,27.23,7.71,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.64,385.44,27.23,7.76,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.77,384.76,27.16,7.74,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.2,385.25,27.09,7.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.44,387.5,26.97,7.62,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.94,391.38,26.48,7.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.17,389.31,26.77,7.28,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.98,386.91,27.01,7.54,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.65,386.41,27.16,7.58,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.26,387.98,27.1,7.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.9,388.75,26.95,7.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.69,389.02,27.36,7.64,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.23,391.64,26.38,6.89,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-04-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.06,388.1,26.84,7.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.17,388.03,28.15,8.22,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.88,388.85,28.0,8.08,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.97,386.75,28.24,8.23,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.93,385.61,28.33,8.11,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.45,387.43,28.01,7.89,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.0,388.03,27.96,7.87,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.11,388.13,27.96,7.88,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.66,389.58,27.91,7.72,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.25,393.65,27.39,7.61,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.63,389.68,27.79,7.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.94,390.01,27.75,7.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.15,390.18,27.76,7.63,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.62,389.7,27.73,7.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.21,388.08,27.95,7.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.27,387.15,27.96,7.6,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.2,389.12,27.82,7.48,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.63,390.46,27.83,7.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.53,389.33,27.89,7.56,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.45,387.16,28.02,7.57,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.44,378.83,28.52,7.65,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.86,379.27,28.47,7.58,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.15,384.88,28.06,7.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.74,386.31,28.13,7.36,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.82,383.36,28.27,7.42,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.34,376.67,28.69,7.52,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.47,379.43,28.89,7.54,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.97,378.95,28.91,7.59,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.06,379.16,28.78,7.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.44,379.52,28.75,7.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.21,380.41,28.62,7.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-05-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.84,381.43,28.27,7.24,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.34,380.87,28.33,7.24,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.2,378.21,28.82,7.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.64,379.12,28.45,7.23,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.43,379.03,28.35,7.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.33,378.72,28.5,7.2,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.74,380.17,28.42,7.14,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.49,374.95,28.54,7.2,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.78,378.5,28.2,7.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.9,382.63,28.06,7.01,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.56,381.24,28.14,7.01,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.8,382.57,28.0,7.04,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.65,384.5,27.8,6.86,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.63,385.38,27.82,6.88,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.36,386.17,27.71,6.83,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.34,383.95,28.0,7.02,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.31,383.23,27.8,6.84,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.17,380.69,28.2,6.93,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.53,380.18,28.12,6.87,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.86,381.55,28.02,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.97,383.59,28.01,6.93,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.17,382.62,28.13,6.88,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.24,380.35,28.48,6.89,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.8,376.24,28.42,7.05,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.94,372.39,28.56,7.01,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.01,378.58,28.22,6.91,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.31,374.77,28.42,7.01,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.42,379.16,28.02,6.97,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.33,387.35,27.51,6.86,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.44,386.0,27.93,7.17,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-06-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.69,386.58,27.63,6.81,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.42,385.92,28.01,6.93,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.75,386.98,27.43,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.12,387.29,27.45,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.39,388.55,27.41,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.32,389.69,27.18,6.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.51,388.8,27.28,6.77,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.71,391.16,27.11,6.79,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.68,390.09,27.19,6.85,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.45,391.41,27.46,6.87,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.9,392.33,27.03,6.77,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.51,391.39,27.52,6.97,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.28,391.23,27.44,6.94,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.64,391.83,27.27,6.91,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.63,391.3,26.96,6.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.15,392.14,26.74,6.74,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.16,393.08,26.75,6.82,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.48,395.63,26.57,6.67,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.45,393.52,26.66,6.71,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.5,393.49,26.71,6.69,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.8,394.79,26.61,6.79,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.41,396.31,26.56,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.59,399.5,26.53,6.9,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.85,388.83,26.76,6.79,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.82,387.11,26.64,6.82,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.66,394.17,26.3,6.71,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.33,395.89,26.23,6.67,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.53,393.2,26.25,6.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.27,384.87,26.58,6.75,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.16,384.56,26.7,6.79,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.5,386.86,26.6,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-07-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.38,390.01,26.33,6.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.98,388.12,26.66,6.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.22,389.45,26.53,6.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.4,393.8,26.31,6.64,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.04,394.51,26.32,6.67,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.73,396.41,26.03,6.67,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.78,393.58,25.99,6.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.88,398.74,25.8,6.68,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.64,401.39,25.72,6.6,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.5,401.68,26.09,6.74,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.88,395.69,26.56,6.91,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.63,398.66,26.27,6.77,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.59,400.05,25.95,6.79,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.09,398.42,26.12,6.77,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.68,400.4,25.79,6.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.02,400.84,25.73,6.7,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.96,399.96,25.67,6.68,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.73,393.81,25.82,6.68,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.02,400.2,25.55,6.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.47,400.87,25.39,6.63,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.84,401.63,25.12,6.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.48,397.95,25.55,6.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.97,400.75,25.17,6.61,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.77,401.72,24.94,6.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.09,404.06,24.9,6.49,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.82,402.92,24.88,6.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.37,405.31,24.84,6.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.22,406.08,24.85,6.51,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.98,405.82,24.86,6.51,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.57,405.44,24.9,6.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.23,402.54,24.77,6.48,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-08-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.64,404.0,24.63,6.49,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.23,406.21,24.82,6.49,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.39,403.59,24.81,6.52,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.43,401.26,25.2,6.69,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.93,401.73,25.19,6.62,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.26,403.23,25.03,6.63,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.56,403.74,24.8,6.58,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.64,404.85,24.69,6.57,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.02,405.49,24.52,6.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.9,399.15,24.9,6.64,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.69,403.93,24.7,6.56,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.2,405.61,24.49,6.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.8,405.18,24.56,6.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.86,406.45,24.34,6.56,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.25,406.84,24.3,6.56,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.76,406.47,24.28,6.48,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.01,405.71,24.33,6.51,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.88,405.57,24.35,6.54,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.38,405.02,24.42,6.66,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.87,404.68,24.33,6.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.86,405.92,24.13,6.46,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.22,406.4,24.06,6.48,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.01,402.24,24.17,6.56,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.5,406.68,24.08,6.54,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.9,408.15,23.97,6.53,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.02,409.47,23.74,6.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.98,410.71,23.49,6.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.86,409.62,23.53,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.06,409.86,23.5,6.42,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.59,410.38,23.5,6.36,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-09-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.48,412.36,23.34,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.65,411.61,23.3,6.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.27,411.32,23.27,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.04,412.94,23.35,6.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.46,413.44,23.27,6.39,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.66,413.65,23.23,6.42,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.48,415.52,23.11,6.39,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.79,414.7,23.23,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.95,412.88,23.31,6.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.18,413.24,23.22,6.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.66,414.74,23.12,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.15,418.53,22.7,6.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.7,421.15,22.53,6.14,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.07,418.11,22.95,6.28,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.65,417.88,22.88,6.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.52,414.72,23.05,6.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.67,414.02,23.0,6.47,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.31,416.69,22.89,6.41,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.81,414.33,22.88,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.58,415.13,22.8,6.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,312.77,409.19,23.1,6.48,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.09,413.72,22.78,6.38,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.77,415.65,22.55,6.37,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.99,416.96,22.45,6.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.84,406.07,23.45,6.58,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.87,426.97,18.94,6.29,eia.gov; Electricity Maps Estimation,False,,2023
+2023-10-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,327.54,428.94,18.78,6.98,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,325.3,425.81,19.64,7.06,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.09,422.68,20.5,7.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.77,419.43,21.41,7.18,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.35,416.01,22.35,7.25,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-10-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.83,412.48,23.33,7.32,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.06,409.69,24.34,7.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.9,405.31,25.5,7.64,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.96,402.43,26.39,7.52,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.08,395.04,27.82,7.87,eia.gov,False,,2023
+2023-11-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.96,390.55,29.29,9.09,eia.gov; Electricity Maps Estimation,False,,2023
+2023-11-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.08,406.26,28.24,8.33,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.18,411.7,27.83,8.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.72,409.27,27.92,8.36,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.69,407.71,28.39,8.42,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.52,408.52,28.36,8.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.96,408.98,28.3,8.38,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.74,409.7,28.3,8.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.52,410.8,28.0,8.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,318.82,410.24,27.96,8.35,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.1,413.09,27.29,8.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.28,412.19,27.4,8.19,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.11,406.64,27.94,8.38,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.76,407.17,27.93,8.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.1,405.26,28.21,8.57,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.97,406.31,28.03,8.46,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.97,410.12,27.29,8.29,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.82,415.19,26.93,8.08,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.41,412.33,27.46,8.44,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.14,412.4,27.23,8.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.76,408.06,27.35,8.4,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.08,411.64,26.94,8.08,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.11,412.84,26.83,8.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.16,416.07,26.52,8.04,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.78,417.6,26.55,8.33,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-11-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.77,416.48,26.67,8.32,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.23,414.9,26.67,8.1,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.67,415.41,26.54,7.9,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.89,417.71,26.37,7.89,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.74,416.62,26.41,8.03,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.04,415.76,26.61,8.11,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.56,416.29,26.61,8.17,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,326.15,418.93,26.45,8.22,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.56,417.5,26.39,8.07,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.87,414.62,26.67,8.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.8,414.57,26.63,8.01,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.1,413.84,26.67,8.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.85,415.78,26.43,8.04,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.82,417.82,26.29,7.94,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,324.05,417.11,26.26,7.85,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.77,414.56,26.61,7.94,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,323.67,416.71,26.33,7.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.79,414.59,26.65,7.99,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.02,412.48,27.01,8.31,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,322.31,415.09,26.65,8.16,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,321.07,413.95,26.59,8.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.87,412.69,26.69,8.33,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,320.89,414.0,26.39,8.06,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,316.64,409.34,26.92,8.31,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.94,410.89,26.65,8.02,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.11,410.02,26.7,7.95,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.18,409.89,26.88,8.1,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,317.55,410.39,26.76,8.06,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.53,412.5,26.59,8.0,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.65,412.42,26.78,8.2,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.52,412.39,26.67,8.13,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2023-12-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,319.76,412.63,26.66,8.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2023
+2024-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.64,373.66,25.87,8.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.81,372.67,26.03,8.34,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.55,374.47,25.9,8.19,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.49,373.13,26.17,8.22,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.62,374.36,26.05,8.23,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.03,372.74,26.13,8.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.54,374.48,25.89,8.15,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.59,378.84,25.5,8.0,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.77,370.41,26.25,8.17,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.27,370.89,26.26,8.23,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.59,398.86,24.38,4.51,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.86,392.97,33.02,7.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.54,391.85,32.75,7.62,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.82,397.49,32.11,7.45,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.71,394.34,32.16,7.68,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.63,390.24,32.21,7.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.98,392.41,31.36,7.88,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.38,388.97,31.26,7.93,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.47,383.12,31.32,8.13,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.55,382.29,31.17,8.12,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.95,383.01,30.79,8.21,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.76,383.34,30.24,8.11,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.21,373.32,30.88,8.43,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.1,370.02,31.05,8.55,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.81,369.09,30.69,8.63,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.98,367.43,30.51,8.61,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.57,364.92,30.6,8.76,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.59,363.08,30.47,8.84,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.87,362.52,30.27,8.92,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.24,364.3,29.82,9.0,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-01-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.24,363.59,29.53,9.07,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,232.51,310.27,40.48,10.72,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-02-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,225.56,303.33,40.59,10.8,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-02-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,227.77,306.51,39.41,9.1,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-02-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,225.69,304.55,39.25,8.99,Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-02-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.44,340.22,31.23,3.72,eia.gov; Electricity Maps Estimation,False,,2024
+2024-02-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,230.79,311.82,37.45,10.81,eia.gov,False,,2024
+2024-02-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,231.01,312.22,37.36,11.41,eia.gov,False,,2024
+2024-02-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,238.4,321.5,35.27,8.75,eia.gov,False,,2024
+2024-02-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,238.79,321.94,35.16,8.07,eia.gov,False,,2024
+2024-02-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,236.97,319.59,35.63,8.1,eia.gov,False,,2024
+2024-02-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,248.94,334.84,32.41,6.65,eia.gov,False,,2024
+2024-02-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.66,344.89,30.23,6.37,eia.gov,False,,2024
+2024-02-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,245.56,330.91,33.22,8.95,eia.gov,False,,2024
+2024-02-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,234.51,316.04,37.01,11.42,eia.gov,False,,2024
+2024-02-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,246.26,330.24,34.34,8.62,eia.gov,False,,2024
+2024-02-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,250.72,335.98,32.95,6.73,eia.gov,False,,2024
+2024-02-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.49,347.74,30.83,4.89,eia.gov,False,,2024
+2024-02-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.36,367.28,26.98,1.65,eia.gov,False,,2024
+2024-02-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,245.07,328.04,35.39,9.35,eia.gov,False,,2024
+2024-02-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,242.03,323.44,37.16,12.04,eia.gov,False,,2024
+2024-02-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,235.4,315.38,38.58,12.51,eia.gov,False,,2024
+2024-02-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,235.25,315.55,38.16,11.42,eia.gov,False,,2024
+2024-02-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,237.1,318.17,37.27,9.79,eia.gov,False,,2024
+2024-02-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,216.4,292.72,42.12,13.65,eia.gov,False,,2024
+2024-02-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,213.1,289.26,42.41,14.23,eia.gov,False,,2024
+2024-02-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,226.27,305.49,39.46,12.9,eia.gov,False,,2024
+2024-02-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,226.2,305.81,38.98,12.24,eia.gov,False,,2024
+2024-02-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,233.02,314.88,36.74,11.13,eia.gov,False,,2024
+2024-02-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,248.17,334.18,32.46,7.74,eia.gov,False,,2024
+2024-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.65,342.37,30.67,6.18,eia.gov,False,,2024
+2024-03-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,252.8,339.66,31.37,5.74,eia.gov,False,,2024
+2024-03-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,245.4,330.05,33.66,7.98,eia.gov,False,,2024
+2024-03-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.19,337.23,32.26,7.4,eia.gov,False,,2024
+2024-03-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.48,349.4,29.5,6.11,eia.gov,False,,2024
+2024-03-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,259.55,348.24,29.72,6.13,eia.gov,False,,2024
+2024-03-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.69,335.72,32.48,8.52,eia.gov,False,,2024
+2024-03-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.52,352.04,29.06,7.38,eia.gov,False,,2024
+2024-03-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.96,378.33,23.56,6.88,eia.gov,False,,2024
+2024-03-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.5,366.65,25.92,8.84,eia.gov; Electricity Maps Estimation,False,,2024
+2024-03-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.55,346.62,30.11,11.63,eia.gov,False,,2024
+2024-03-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.76,345.4,30.49,11.76,eia.gov,False,,2024
+2024-03-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.44,357.56,27.94,9.84,eia.gov,False,,2024
+2024-03-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.45,359.02,27.54,10.09,eia.gov,False,,2024
+2024-03-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.08,363.6,26.57,9.4,eia.gov,False,,2024
+2024-03-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.91,365.82,26.13,9.0,eia.gov,False,,2024
+2024-03-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.07,369.8,25.31,8.5,eia.gov,False,,2024
+2024-03-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.97,379.99,23.03,7.0,eia.gov,False,,2024
+2024-03-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.19,342.54,30.96,13.13,eia.gov,False,,2024
+2024-03-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,244.68,330.31,33.6,14.11,eia.gov,False,,2024
+2024-03-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.39,350.18,29.27,10.34,eia.gov,False,,2024
+2024-03-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.63,381.74,22.48,2.93,eia.gov,False,,2024
+2024-03-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,258.02,346.82,30.09,9.75,eia.gov,False,,2024
+2024-03-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.92,336.62,32.28,11.71,eia.gov,False,,2024
+2024-03-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.01,354.58,28.39,9.56,eia.gov,False,,2024
+2024-03-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.09,363.49,26.58,8.65,eia.gov,False,,2024
+2024-03-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.65,371.93,24.79,8.03,eia.gov,False,,2024
+2024-03-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.99,359.87,27.34,10.6,eia.gov,False,,2024
+2024-03-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.07,325.64,34.76,15.59,eia.gov,False,,2024
+2024-03-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,239.77,323.82,35.16,15.21,eia.gov,False,,2024
+2024-03-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.67,333.78,33.0,13.22,eia.gov,False,,2024
+2024-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.37,352.16,29.31,11.13,eia.gov,False,,2024
+2024-04-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.7,364.43,26.42,9.72,eia.gov,False,,2024
+2024-04-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.88,383.62,22.26,6.53,eia.gov,False,,2024
+2024-04-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.65,341.76,31.21,13.65,eia.gov,False,,2024
+2024-04-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,238.32,322.35,35.36,16.47,eia.gov,False,,2024
+2024-04-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,233.49,315.92,36.87,17.05,eia.gov,False,,2024
+2024-04-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,239.33,323.25,35.32,15.71,eia.gov,False,,2024
+2024-04-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,253.21,340.23,32.08,13.18,eia.gov,False,,2024
+2024-04-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.88,357.36,29.41,11.14,eia.gov,False,,2024
+2024-04-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.87,372.44,26.33,9.54,eia.gov,False,,2024
+2024-04-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.11,386.72,23.23,7.55,eia.gov,False,,2024
+2024-04-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,258.73,346.43,31.59,14.8,eia.gov,False,,2024
+2024-04-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.55,323.96,36.67,16.56,eia.gov,False,,2024
+2024-04-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,236.47,317.7,37.74,16.04,eia.gov,False,,2024
+2024-04-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,248.34,332.4,34.86,14.18,eia.gov,False,,2024
+2024-04-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,246.12,329.05,35.78,13.42,eia.gov,False,,2024
+2024-04-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.71,331.41,35.01,12.97,eia.gov,False,,2024
+2024-04-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,259.39,345.54,32.43,10.72,eia.gov,False,,2024
+2024-04-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,259.37,345.67,32.35,11.41,eia.gov,False,,2024
+2024-04-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,263.0,350.15,31.39,10.53,eia.gov,False,,2024
+2024-04-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.74,354.66,30.44,8.96,eia.gov,False,,2024
+2024-04-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.69,334.97,33.28,10.56,eia.gov,False,,2024
+2024-04-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,228.38,307.3,39.74,15.11,eia.gov,False,,2024
+2024-04-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,235.18,315.4,38.44,14.41,eia.gov,False,,2024
+2024-04-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,243.91,326.96,35.62,12.58,eia.gov,False,,2024
+2024-04-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.27,331.1,34.9,12.73,eia.gov,False,,2024
+2024-04-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.43,340.21,32.78,10.06,eia.gov,False,,2024
+2024-04-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,245.45,328.74,35.35,12.27,eia.gov,False,,2024
+2024-04-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,250.44,335.17,33.97,11.79,eia.gov,False,,2024
+2024-04-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,266.16,354.34,30.36,8.99,eia.gov,False,,2024
+2024-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,265.58,353.84,30.33,9.5,eia.gov,False,,2024
+2024-05-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,265.64,353.88,30.53,10.64,eia.gov,False,,2024
+2024-05-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,267.61,356.43,29.99,10.27,eia.gov,False,,2024
+2024-05-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,268.23,357.13,29.82,9.81,eia.gov,False,,2024
+2024-05-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,264.24,352.14,30.8,10.52,eia.gov,False,,2024
+2024-05-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.89,359.3,29.35,9.89,eia.gov,False,,2024
+2024-05-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.53,361.37,28.99,10.02,eia.gov,False,,2024
+2024-05-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.59,366.13,28.18,9.8,eia.gov,False,,2024
+2024-05-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.47,370.62,27.51,9.33,eia.gov,False,,2024
+2024-05-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.22,374.2,26.51,7.75,eia.gov,False,,2024
+2024-05-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.03,361.75,28.99,10.3,eia.gov,False,,2024
+2024-05-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,269.37,358.59,29.34,9.28,eia.gov,False,,2024
+2024-05-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.93,379.02,25.3,5.92,eia.gov,False,,2024
+2024-05-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.49,374.95,26.1,7.76,eia.gov,False,,2024
+2024-05-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.88,379.27,25.12,6.91,eia.gov,False,,2024
+2024-05-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.91,371.18,27.39,9.16,eia.gov,False,,2024
+2024-05-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.08,381.74,24.85,6.66,eia.gov,False,,2024
+2024-05-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.25,383.39,24.4,6.67,eia.gov,False,,2024
+2024-05-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.58,377.26,25.91,7.99,eia.gov,False,,2024
+2024-05-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.93,369.25,27.36,9.11,eia.gov,False,,2024
+2024-05-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,272.65,362.41,28.92,10.16,eia.gov,False,,2024
+2024-05-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.04,368.95,27.86,10.08,eia.gov,False,,2024
+2024-05-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.72,370.92,27.56,9.98,eia.gov,False,,2024
+2024-05-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.62,371.97,27.42,10.02,eia.gov,False,,2024
+2024-05-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.43,374.92,26.29,9.14,eia.gov,False,,2024
+2024-05-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.72,369.23,27.31,9.96,eia.gov,False,,2024
+2024-05-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.22,376.13,25.9,9.22,eia.gov,False,,2024
+2024-05-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.73,381.63,24.91,8.81,eia.gov,False,,2024
+2024-05-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.14,377.86,26.0,9.3,eia.gov,False,,2024
+2024-05-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.85,376.32,26.14,8.56,eia.gov; Electricity Maps Estimation,True,ESTIMATED_TIME_SLICER_AVERAGE,2024
+2024-05-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.21,363.0,28.85,10.25,eia.gov; Electricity Maps Estimation,False,,2024
+2024-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.36,366.79,28.07,8.67,eia.gov,False,,2024
+2024-06-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.77,365.43,28.72,8.58,eia.gov,False,,2024
+2024-06-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.83,364.41,28.94,9.46,eia.gov,False,,2024
+2024-06-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,279.65,370.79,27.6,10.11,eia.gov,False,,2024
+2024-06-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.26,398.5,21.7,8.51,eia.gov,False,,2024
+2024-06-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.89,404.28,20.52,7.85,eia.gov,False,,2024
+2024-06-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.68,384.46,24.93,9.12,eia.gov,False,,2024
+2024-06-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.27,372.42,27.46,9.87,eia.gov,False,,2024
+2024-06-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.7,374.43,26.92,9.71,eia.gov,False,,2024
+2024-06-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.95,384.99,24.55,7.86,eia.gov,False,,2024
+2024-06-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.96,381.91,25.34,6.6,eia.gov,False,,2024
+2024-06-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.53,376.16,26.55,6.48,eia.gov,False,,2024
+2024-06-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.53,372.91,26.99,7.37,eia.gov,False,,2024
+2024-06-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.45,368.04,27.98,8.91,eia.gov,False,,2024
+2024-06-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.66,365.51,28.64,9.04,eia.gov,False,,2024
+2024-06-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.55,373.22,26.86,8.13,eia.gov,False,,2024
+2024-06-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.68,378.63,25.75,8.51,eia.gov,False,,2024
+2024-06-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.21,390.58,22.73,8.89,eia.gov,False,,2024
+2024-06-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.67,403.68,20.03,7.13,eia.gov; Electricity Maps Estimation,False,,2024
+2024-06-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.86,393.52,22.41,9.19,eia.gov,False,,2024
+2024-06-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.95,394.58,22.41,9.46,eia.gov,False,,2024
+2024-06-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.29,406.16,20.05,6.88,eia.gov; Electricity Maps Estimation,False,,2024
+2024-06-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.27,396.05,22.2,8.43,eia.gov,False,,2024
+2024-06-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.95,400.8,21.15,7.97,eia.gov,False,,2024
+2024-06-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.07,394.02,22.91,8.26,eia.gov,False,,2024
+2024-06-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.66,388.05,24.16,7.25,eia.gov,False,,2024
+2024-06-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.27,383.93,24.88,7.79,eia.gov,False,,2024
+2024-06-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.7,389.51,23.63,6.54,eia.gov,False,,2024
+2024-06-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.32,383.5,24.39,6.84,eia.gov,False,,2024
+2024-06-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.48,380.86,25.03,6.18,eia.gov,False,,2024
+2024-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.45,367.74,28.22,9.45,eia.gov,False,,2024
+2024-07-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.56,384.58,24.5,7.24,eia.gov,False,,2024
+2024-07-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.83,384.13,24.38,7.81,eia.gov,False,,2024
+2024-07-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.7,381.82,24.68,8.32,eia.gov,False,,2024
+2024-07-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.01,386.08,23.7,7.41,eia.gov,False,,2024
+2024-07-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.35,374.89,26.21,9.08,eia.gov,False,,2024
+2024-07-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.25,382.26,24.68,7.95,eia.gov,False,,2024
+2024-07-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.98,387.07,23.64,7.58,eia.gov,False,,2024
+2024-07-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.38,391.68,22.45,6.34,eia.gov,False,,2024
+2024-07-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.77,389.41,23.05,6.1,eia.gov,False,,2024
+2024-07-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.65,380.51,24.72,6.31,eia.gov,False,,2024
+2024-07-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.66,374.43,25.95,7.87,eia.gov,False,,2024
+2024-07-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.98,378.59,25.15,7.58,eia.gov,False,,2024
+2024-07-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.2,381.54,24.47,7.47,eia.gov,False,,2024
+2024-07-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.85,380.22,24.55,7.92,eia.gov,False,,2024
+2024-07-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.78,388.51,23.12,7.11,eia.gov,False,,2024
+2024-07-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.37,382.93,24.31,7.87,eia.gov,False,,2024
+2024-07-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.9,388.54,23.08,6.59,eia.gov,False,,2024
+2024-07-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.72,388.21,23.2,6.52,eia.gov,False,,2024
+2024-07-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.54,387.94,23.21,6.22,eia.gov,False,,2024
+2024-07-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.2,381.19,24.68,7.65,eia.gov,False,,2024
+2024-07-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.97,386.95,23.59,6.01,eia.gov,False,,2024
+2024-07-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.69,378.03,25.36,7.66,eia.gov,False,,2024
+2024-07-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.41,383.38,23.91,7.55,eia.gov,False,,2024
+2024-07-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.59,382.8,23.72,7.46,eia.gov,False,,2024
+2024-07-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.73,382.44,24.14,7.57,eia.gov,False,,2024
+2024-07-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.85,382.5,24.09,6.98,eia.gov; Electricity Maps Estimation,False,,2024
+2024-07-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.67,384.98,23.43,6.59,eia.gov,False,,2024
+2024-07-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.14,399.59,20.68,7.95,eia.gov,False,,2024
+2024-07-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.69,398.8,20.99,7.88,eia.gov,False,,2024
+2024-07-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.18,405.71,19.56,7.05,eia.gov,False,,2024
+2024-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.22,404.56,19.78,7.87,eia.gov,False,,2024
+2024-08-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.83,408.19,18.8,6.93,eia.gov,False,,2024
+2024-08-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.27,407.07,19.2,6.23,eia.gov,False,,2024
+2024-08-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.82,406.78,19.73,4.89,eia.gov,False,,2024
+2024-08-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.43,390.35,22.59,4.48,eia.gov,False,,2024
+2024-08-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.8,383.39,24.15,7.06,eia.gov,False,,2024
+2024-08-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.37,389.57,23.46,7.1,eia.gov,False,,2024
+2024-08-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,294.79,389.7,23.69,7.32,eia.gov,False,,2024
+2024-08-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.76,384.89,24.49,7.71,eia.gov,False,,2024
+2024-08-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.78,383.78,24.6,7.51,eia.gov,False,,2024
+2024-08-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.25,384.63,24.27,7.47,eia.gov,False,,2024
+2024-08-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.21,382.43,24.52,8.01,eia.gov,False,,2024
+2024-08-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.14,384.62,24.31,8.39,eia.gov,False,,2024
+2024-08-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.36,388.86,23.24,7.51,eia.gov,False,,2024
+2024-08-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.27,392.52,22.41,6.21,eia.gov,False,,2024
+2024-08-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,282.31,375.23,25.85,8.46,eia.gov,False,,2024
+2024-08-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.99,369.52,27.22,9.39,eia.gov,False,,2024
+2024-08-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.94,369.27,27.39,9.62,eia.gov,False,,2024
+2024-08-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.89,379.21,25.38,8.26,eia.gov,False,,2024
+2024-08-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.03,379.52,25.18,8.25,eia.gov,False,,2024
+2024-08-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.48,380.23,24.87,7.37,eia.gov,False,,2024
+2024-08-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.54,380.29,24.71,5.84,eia.gov,False,,2024
+2024-08-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.78,367.97,27.41,8.58,eia.gov,False,,2024
+2024-08-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,274.75,365.59,27.76,8.58,eia.gov,False,,2024
+2024-08-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.63,370.24,26.99,8.28,eia.gov,False,,2024
+2024-08-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.29,382.57,24.39,7.07,eia.gov,False,,2024
+2024-08-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.27,385.37,23.72,7.32,eia.gov,False,,2024
+2024-08-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.12,392.6,22.29,6.17,eia.gov,False,,2024
+2024-08-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.17,381.01,24.82,7.06,eia.gov,False,,2024
+2024-08-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.99,377.27,25.55,8.4,eia.gov,False,,2024
+2024-08-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.2,389.71,22.62,8.61,eia.gov; Electricity Maps Estimation,False,,2024
+2024-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.75,394.03,21.75,7.38,eia.gov,False,,2024
+2024-09-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.84,393.93,21.89,7.59,eia.gov,False,,2024
+2024-09-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.73,403.73,19.96,6.47,eia.gov,False,,2024
+2024-09-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.33,408.62,18.64,5.39,eia.gov,False,,2024
+2024-09-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,306.12,406.0,19.13,6.12,eia.gov,False,,2024
+2024-09-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.71,409.03,18.57,5.49,eia.gov,False,,2024
+2024-09-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.77,404.06,19.63,6.25,eia.gov,False,,2024
+2024-09-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.28,405.06,19.21,6.09,eia.gov,False,,2024
+2024-09-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.93,412.26,17.64,5.01,eia.gov,False,,2024
+2024-09-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.21,404.12,19.11,5.66,eia.gov,False,,2024
+2024-09-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.55,408.31,18.2,4.71,eia.gov,False,,2024
+2024-09-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.06,403.97,19.13,5.85,eia.gov,False,,2024
+2024-09-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.62,404.98,18.71,5.93,eia.gov,False,,2024
+2024-09-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.42,400.71,19.77,6.6,eia.gov,False,,2024
+2024-09-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.96,401.01,19.89,6.05,eia.gov,False,,2024
+2024-09-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,305.25,405.43,18.84,5.47,eia.gov,False,,2024
+2024-09-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.0,400.75,20.34,7.09,eia.gov,False,,2024
+2024-09-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.45,397.78,20.84,8.0,eia.gov,False,,2024
+2024-09-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.79,395.38,21.53,8.22,eia.gov,False,,2024
+2024-09-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.12,389.46,22.82,9.22,eia.gov,False,,2024
+2024-09-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.08,398.9,20.53,8.84,eia.gov,False,,2024
+2024-09-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.87,390.72,22.36,8.99,eia.gov,False,,2024
+2024-09-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.55,397.82,20.94,8.22,eia.gov,False,,2024
+2024-09-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.92,403.0,20.04,7.52,eia.gov; Electricity Maps Estimation,False,,2024
+2024-09-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,315.12,417.03,16.96,3.95,eia.gov,False,,2024
+2024-09-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,313.63,415.2,17.25,3.72,eia.gov,False,,2024
+2024-09-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.71,403.12,19.64,6.48,eia.gov,False,,2024
+2024-09-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.42,402.54,19.82,6.28,eia.gov,False,,2024
+2024-09-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.52,396.36,21.22,8.1,eia.gov,False,,2024
+2024-09-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.98,403.98,20.0,7.29,eia.gov,False,,2024
+2024-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.77,407.1,19.54,6.86,eia.gov,False,,2024
+2024-10-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.26,402.48,20.66,7.62,eia.gov; Electricity Maps Estimation,False,,2024
+2024-10-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.75,406.86,19.7,6.46,eia.gov,False,,2024
+2024-10-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.48,409.31,18.97,5.36,eia.gov,False,,2024
+2024-10-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,304.7,402.84,20.63,6.13,eia.gov,False,,2024
+2024-10-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.92,411.78,18.55,2.57,eia.gov,False,,2024
+2024-10-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,299.38,396.87,21.19,5.02,eia.gov,False,,2024
+2024-10-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.95,394.7,21.93,6.0,eia.gov,False,,2024
+2024-10-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,311.51,412.18,17.87,2.73,eia.gov,False,,2024
+2024-10-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,284.7,377.82,25.5,7.6,eia.gov,False,,2024
+2024-10-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,281.43,374.03,26.01,7.63,eia.gov,False,,2024
+2024-10-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.24,385.4,23.92,9.76,eia.gov,False,,2024
+2024-10-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,300.14,398.65,20.82,9.42,eia.gov,False,,2024
+2024-10-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.1,401.27,20.29,9.86,eia.gov,False,,2024
+2024-10-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,302.39,401.7,19.95,8.37,eia.gov,False,,2024
+2024-10-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.51,385.93,22.03,9.51,eia.gov,False,,2024
+2024-10-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,271.15,364.11,26.52,12.03,eia.gov,False,,2024
+2024-10-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.27,375.36,24.2,9.62,eia.gov,False,,2024
+2024-10-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.35,381.82,22.83,9.08,eia.gov,False,,2024
+2024-10-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.77,384.76,22.27,8.59,eia.gov,False,,2024
+2024-10-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.67,386.05,22.03,9.33,eia.gov,False,,2024
+2024-10-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.98,392.74,20.67,8.58,eia.gov,False,,2024
+2024-10-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.03,391.44,21.01,8.81,eia.gov,False,,2024
+2024-10-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.52,385.83,22.17,9.65,eia.gov,False,,2024
+2024-10-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,288.51,385.93,22.03,9.48,eia.gov,False,,2024
+2024-10-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.5,388.17,21.63,8.46,eia.gov,False,,2024
+2024-10-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.32,386.65,21.93,8.33,eia.gov,False,,2024
+2024-10-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.99,396.53,19.66,6.13,eia.gov,False,,2024
+2024-10-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,283.74,379.42,23.5,8.21,eia.gov,False,,2024
+2024-10-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,293.37,390.8,21.67,6.89,eia.gov,False,,2024
+2024-10-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.21,383.0,23.32,8.04,eia.gov,False,,2024
+2024-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.94,386.27,22.73,7.5,eia.gov,False,,2024
+2024-11-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.06,387.14,22.85,6.97,eia.gov,False,,2024
+2024-11-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.71,385.28,23.38,7.59,eia.gov,False,,2024
+2024-11-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.99,386.96,22.92,7.01,eia.gov,False,,2024
+2024-11-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,301.8,400.25,20.31,4.57,eia.gov,False,,2024
+2024-11-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.83,407.29,19.25,4.05,eia.gov,False,,2024
+2024-11-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,309.55,409.42,18.88,3.96,eia.gov,False,,2024
+2024-11-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,298.03,395.27,21.62,5.95,eia.gov; Electricity Maps Estimation,False,,2024
+2024-11-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.32,386.99,23.09,6.37,eia.gov,False,,2024
+2024-11-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,292.1,387.74,22.99,5.7,eia.gov,False,,2024
+2024-11-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.56,393.2,22.05,5.52,eia.gov,False,,2024
+2024-11-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.22,392.69,22.27,6.1,eia.gov,False,,2024
+2024-11-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,296.19,392.72,22.24,5.99,eia.gov,False,,2024
+2024-11-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.0,381.63,24.24,7.25,eia.gov,False,,2024
+2024-11-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.21,385.69,23.55,8.07,eia.gov,False,,2024
+2024-11-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,280.8,374.17,25.87,10.82,eia.gov,False,,2024
+2024-11-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,291.69,387.11,23.58,7.92,eia.gov,False,,2024
+2024-11-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,277.03,368.36,27.12,5.98,eia.gov,False,,2024
+2024-11-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,275.36,365.95,27.72,5.42,eia.gov,False,,2024
+2024-11-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,273.41,363.84,27.81,4.66,eia.gov,False,,2024
+2024-11-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,240.36,322.75,36.15,11.29,eia.gov,False,,2024
+2024-11-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,221.27,297.84,41.75,12.95,eia.gov,False,,2024
+2024-11-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,220.01,296.27,41.93,12.31,eia.gov,False,,2024
+2024-11-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,226.25,304.1,40.23,10.72,eia.gov,False,,2024
+2024-11-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,229.61,308.88,38.94,10.88,eia.gov,False,,2024
+2024-11-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,239.19,322.17,35.42,9.5,eia.gov,False,,2024
+2024-11-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.89,325.52,34.77,9.25,eia.gov,False,,2024
+2024-11-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.35,332.11,33.58,8.36,eia.gov,False,,2024
+2024-11-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.84,337.72,32.21,5.73,eia.gov,False,,2024
+2024-11-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,239.63,322.73,35.24,8.84,eia.gov,False,,2024
+2024-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,226.77,306.26,38.95,11.81,eia.gov,False,,2024
+2024-12-02 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,225.53,304.64,39.38,12.67,eia.gov,False,,2024
+2024-12-03 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,236.24,318.23,36.63,11.71,eia.gov,False,,2024
+2024-12-04 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,257.27,343.61,32.36,10.67,eia.gov,False,,2024
+2024-12-05 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.97,367.51,28.05,8.56,eia.gov,False,,2024
+2024-12-06 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,268.09,356.65,30.12,10.1,eia.gov,False,,2024
+2024-12-07 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,244.46,326.77,36.04,11.41,eia.gov,False,,2024
+2024-12-08 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,234.71,315.52,37.36,10.52,eia.gov,False,,2024
+2024-12-09 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,246.24,329.96,34.33,7.83,eia.gov,False,,2024
+2024-12-10 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.32,336.38,33.04,7.19,eia.gov,False,,2024
+2024-12-11 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.56,349.69,30.04,5.88,eia.gov,False,,2024
+2024-12-12 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,240.02,322.99,35.65,11.4,eia.gov,False,,2024
+2024-12-13 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.84,337.71,32.73,9.34,eia.gov,False,,2024
+2024-12-14 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.47,334.61,33.1,7.28,eia.gov,False,,2024
+2024-12-15 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,246.8,331.19,33.76,7.22,eia.gov,False,,2024
+2024-12-16 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,249.78,335.13,32.92,7.73,eia.gov,False,,2024
+2024-12-17 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,255.79,342.73,31.39,7.54,eia.gov,False,,2024
+2024-12-18 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,260.09,348.15,30.26,6.79,eia.gov,False,,2024
+2024-12-19 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,252.61,338.77,32.18,8.12,eia.gov,False,,2024
+2024-12-20 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.09,324.23,35.21,9.73,eia.gov,False,,2024
+2024-12-21 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,229.54,309.74,38.17,11.05,eia.gov,False,,2024
+2024-12-22 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,230.43,311.12,37.79,11.36,eia.gov,False,,2024
+2024-12-23 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.73,325.24,34.77,8.4,eia.gov,False,,2024
+2024-12-24 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,240.97,323.55,35.55,8.82,eia.gov,False,,2024
+2024-12-25 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,246.87,330.65,34.07,5.96,eia.gov,False,,2024
+2024-12-26 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,252.04,337.69,32.32,5.26,eia.gov,False,,2024
+2024-12-27 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,261.02,349.3,29.71,3.69,eia.gov,False,,2024
+2024-12-28 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,256.5,343.73,30.82,4.64,eia.gov,False,,2024
+2024-12-29 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,251.74,337.48,32.23,5.05,eia.gov,False,,2024
+2024-12-30 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,241.73,325.03,34.95,8.72,eia.gov,False,,2024
+2024-12-31 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.26,331.88,33.64,8.39,eia.gov,False,,2024

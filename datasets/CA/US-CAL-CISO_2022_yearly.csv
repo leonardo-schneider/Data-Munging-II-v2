@@ -1,0 +1,2 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2022-01-01 00:00:00,USA,CAISO,US-CAL-CISO,196.41,263.32,55.55,44.56,caiso.com; Electricity Maps Estimation,false,

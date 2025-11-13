@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2021-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,287.52,373.31,31.80,3.74,Electricity Maps Estimation; eia.gov,false,
+2021-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.54,378.35,29.79,3.74,eia.gov,false,
+2021-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.60,373.96,30.65,4.65,eia.gov,false,
+2021-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,307.94,400.65,25.86,5.19,eia.gov,false,
+2021-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,308.94,402.49,24.60,5.43,eia.gov,false,
+2021-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,310.06,402.77,25.17,3.84,Electricity Maps Estimation; eia.gov,false,
+2021-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,314.56,408.60,24.09,3.94,eia.gov,false,
+2021-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,331.30,428.29,21.35,3.58,eia.gov,false,
+2021-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,336.13,435.17,19.69,4.08,eia.gov,false,
+2021-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,329.02,424.59,22.99,4.69,eia.gov,false,
+2021-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,297.93,388.34,28.05,4.52,eia.gov,false,
+2021-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,285.09,372.37,31.02,4.62,eia.gov,false,

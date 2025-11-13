@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2024-01-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,286.88,376.91,28.85,8.14,Electricity Maps Estimation; eia.gov,true,ESTIMATED_TIME_SLICER_AVERAGE
+2024-02-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,239.11,321.50,35.99,9.35,Electricity Maps Estimation; eia.gov,false,
+2024-03-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,262.10,351.99,29.01,9.32,Electricity Maps Estimation; eia.gov,false,
+2024-04-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,254.98,341.32,32.51,12.16,eia.gov,false,
+2024-05-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,278.14,369.37,27.45,9.09,Electricity Maps Estimation; eia.gov,false,
+2024-06-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.02,384.00,24.70,8.19,Electricity Maps Estimation; eia.gov,false,
+2024-07-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,289.97,384.84,23.90,7.39,Electricity Maps Estimation; eia.gov,false,
+2024-08-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,290.29,385.04,23.99,7.48,Electricity Maps Estimation; eia.gov,false,
+2024-09-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,303.44,402.68,19.79,6.59,Electricity Maps Estimation; eia.gov,false,
+2024-10-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,295.09,392.61,21.56,7.72,Electricity Maps Estimation; eia.gov,false,
+2024-11-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,276.12,367.77,26.99,7.33,Electricity Maps Estimation; eia.gov,false,
+2024-12-01 00:00:00,USA,Florida Power and Light Company,US-FLA-FPL,247.87,332.44,33.73,8.52,eia.gov,false,

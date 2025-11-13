@@ -1,0 +1,49 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method,year,frequency,region
+2021-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,179.92,238.73,59.33,30.76,nyiso.com; Electricity Maps Estimation,False,,2021,monthly,US-NY-NYIS
+2021-02-01 00:00:00,USA,New York ISO,US-NY-NYIS,200.54,260.65,56.97,27.7,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-03-01 00:00:00,USA,New York ISO,US-NY-NYIS,166.93,223.24,61.83,32.82,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-04-01 00:00:00,USA,New York ISO,US-NY-NYIS,155.13,209.77,64.05,33.52,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-05-01 00:00:00,USA,New York ISO,US-NY-NYIS,181.39,242.4,57.93,31.39,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-06-01 00:00:00,USA,New York ISO,US-NY-NYIS,227.58,297.51,48.47,26.51,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-07-01 00:00:00,USA,New York ISO,US-NY-NYIS,233.79,304.84,47.38,25.97,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-08-01 00:00:00,USA,New York ISO,US-NY-NYIS,246.11,320.0,44.6,24.75,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-09-01 00:00:00,USA,New York ISO,US-NY-NYIS,207.05,272.3,53.06,28.68,nyiso.com; Electricity Maps Estimation,False,,2021,monthly,US-NY-NYIS
+2021-10-01 00:00:00,USA,New York ISO,US-NY-NYIS,201.63,267.28,53.22,30.89,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2021-11-01 00:00:00,USA,New York ISO,US-NY-NYIS,196.84,261.04,54.22,29.33,nyiso.com; Electricity Maps Estimation,False,,2021,monthly,US-NY-NYIS
+2021-12-01 00:00:00,USA,New York ISO,US-NY-NYIS,197.0,259.27,55.68,31.28,nyiso.com,False,,2021,monthly,US-NY-NYIS
+2022-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,233.22,300.98,49.45,26.02,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-02-01 00:00:00,USA,New York ISO,US-NY-NYIS,225.31,291.22,51.28,28.19,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-03-01 00:00:00,USA,New York ISO,US-NY-NYIS,207.47,272.19,53.76,33.52,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-04-01 00:00:00,USA,New York ISO,US-NY-NYIS,190.08,253.85,55.33,32.19,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-05-01 00:00:00,USA,New York ISO,US-NY-NYIS,207.8,275.83,51.05,27.98,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-06-01 00:00:00,USA,New York ISO,US-NY-NYIS,205.49,273.1,51.74,29.73,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-07-01 00:00:00,USA,New York ISO,US-NY-NYIS,236.17,310.53,44.79,25.44,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-08-01 00:00:00,USA,New York ISO,US-NY-NYIS,244.83,319.92,43.75,24.23,nyiso.com; Electricity Maps Estimation,False,,2022,monthly,US-NY-NYIS
+2022-09-01 00:00:00,USA,New York ISO,US-NY-NYIS,219.48,288.88,49.64,28.9,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-10-01 00:00:00,USA,New York ISO,US-NY-NYIS,205.86,272.32,52.12,28.48,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2022-11-01 00:00:00,USA,New York ISO,US-NY-NYIS,206.79,273.43,51.83,27.58,nyiso.com; Electricity Maps Estimation,False,,2022,monthly,US-NY-NYIS
+2022-12-01 00:00:00,USA,New York ISO,US-NY-NYIS,205.44,269.81,53.67,29.94,nyiso.com,False,,2022,monthly,US-NY-NYIS
+2023-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,199.85,263.37,54.62,29.58,nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-02-01 00:00:00,USA,New York ISO,US-NY-NYIS,202.29,266.42,53.85,29.65,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-03-01 00:00:00,USA,New York ISO,US-NY-NYIS,196.66,259.86,55.38,32.16,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-04-01 00:00:00,USA,New York ISO,US-NY-NYIS,194.26,257.92,55.14,32.73,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-05-01 00:00:00,USA,New York ISO,US-NY-NYIS,184.03,246.28,56.52,30.09,nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-06-01 00:00:00,USA,New York ISO,US-NY-NYIS,226.77,300.05,45.74,22.98,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-07-01 00:00:00,USA,New York ISO,US-NY-NYIS,257.34,338.34,38.29,19.97,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-08-01 00:00:00,USA,New York ISO,US-NY-NYIS,233.63,308.63,44.06,22.89,nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-09-01 00:00:00,USA,New York ISO,US-NY-NYIS,234.61,310.01,43.91,23.6,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-10-01 00:00:00,USA,New York ISO,US-NY-NYIS,199.22,265.46,52.43,27.22,nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-11-01 00:00:00,USA,New York ISO,US-NY-NYIS,209.29,277.81,49.95,26.82,Electricity Maps Estimation; nyiso.com,False,,2023,monthly,US-NY-NYIS
+2023-12-01 00:00:00,USA,New York ISO,US-NY-NYIS,201.61,268.35,51.78,28.0,nyiso.com,False,,2023,monthly,US-NY-NYIS
+2024-01-01 00:00:00,USA,New York ISO,US-NY-NYIS,202.03,269.15,51.56,28.73,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-02-01 00:00:00,USA,New York ISO,US-NY-NYIS,199.23,265.56,52.34,29.47,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-03-01 00:00:00,USA,New York ISO,US-NY-NYIS,212.13,280.13,50.61,30.53,nyiso.com,False,,2024,monthly,US-NY-NYIS
+2024-04-01 00:00:00,USA,New York ISO,US-NY-NYIS,194.33,257.05,55.23,29.12,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-05-01 00:00:00,USA,New York ISO,US-NY-NYIS,215.43,283.29,50.35,24.85,nyiso.com,False,,2024,monthly,US-NY-NYIS
+2024-06-01 00:00:00,USA,New York ISO,US-NY-NYIS,239.44,312.11,45.38,22.76,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-07-01 00:00:00,USA,New York ISO,US-NY-NYIS,255.76,333.3,41.0,20.79,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-08-01 00:00:00,USA,New York ISO,US-NY-NYIS,254.46,331.22,41.52,20.54,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-09-01 00:00:00,USA,New York ISO,US-NY-NYIS,247.19,322.83,42.64,20.79,nyiso.com,False,,2024,monthly,US-NY-NYIS
+2024-10-01 00:00:00,USA,New York ISO,US-NY-NYIS,225.63,295.08,48.21,22.62,nyiso.com,False,,2024,monthly,US-NY-NYIS
+2024-11-01 00:00:00,USA,New York ISO,US-NY-NYIS,216.32,283.38,50.36,24.56,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
+2024-12-01 00:00:00,USA,New York ISO,US-NY-NYIS,231.65,301.3,47.62,23.34,nyiso.com; Electricity Maps Estimation,False,,2024,monthly,US-NY-NYIS
