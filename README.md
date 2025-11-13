@@ -119,6 +119,8 @@ Florida has `NaN` for these columns because the data is not provided.
 
 ## What Still Can Be Done (Future Work)
 
+### Look at pricing for region (estimation)
+
 ### 🔹 1. **Exploratory Data Analysis (EDA)**
 Possible analyses:
 - Hourly carbon-intensity patterns  
@@ -140,8 +142,7 @@ Examples:
 - Detect anomalies (extreme spikes)  
 
 ### 🔹 4. **Additional regions**
-We can easily extend the pipeline to include:
-- ERCOT (Texas)  
+We can easily extend the pipeline to include:  
 - MISO  
 - PJM  
 - BPA
