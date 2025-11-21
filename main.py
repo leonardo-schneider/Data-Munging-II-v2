@@ -262,3 +262,11 @@ print(df_provider.head(), df_provider.tail(), df_provider.shape)
 
 
 #%%
+import pandas as pd
+
+# Load the Excel file
+df = pd.read_excel("C:/Users/leona/Desktop/Masters/Data Mungin/Second group Project/EDS/summary_2014_2024.xlsx")
+
+# Save as CSV
+df.to_csv("summary_2014.csv", index=False)
+#%%
