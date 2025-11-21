@@ -8,7 +8,7 @@
 from duckdb_client import DuckDBClient
 
 
-BASE_URL = "https://newfoundland-joshua-purple-sparc.trycloudflare.com/" 
+BASE_URL = "https://duckdb.straddlyze.com/" 
 API_TOKEN = "token-vGG2vbS8IyEVYct5g6jFqQ"
 
 client = DuckDBClient(base_url=BASE_URL, token=API_TOKEN)

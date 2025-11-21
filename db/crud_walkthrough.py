@@ -1,8 +1,8 @@
 """
-DuckDB Client - CRUD Demo
+DuckDB Client - Full CRUD Operations Demo
 
-This script does all CRUD (Create, Read, Update, Delete) operations
-that you can perform on the data munging DuckDB database
+This script demonstrates all CRUD (Create, Read, Update, Delete) operations
+that you can perform on the remote DuckDB database.
 
 CRUD Operations:
 - CREATE: Create tables, insert data
@@ -13,13 +13,12 @@ CRUD Operations:
 
 from duckdb_client import DuckDBClient
 
-BASE_URL = "https://launched-pavilion-msie-repairs.trycloudflare.com"
-API_TOKEN = "token-vGG2vbS8IyEVYct5g6jFqQ"  
-# token-7tP9tNX9cJ_KeQmF1tNnSA
-# token-I5WbqPySFXbAnjCZPqzNsw
-# token-bxbzJjnUW6-g1PrQnTylsw
-
 # ============================================
+# CONFIGURATION - EDIT THESE VALUES
+# ============================================
+
+BASE_URL = "https://duckdb.straddlyze.com"
+API_TOKEN = "token-vGG2vbS8IyEVYct5g6jFqQ"  # Replace with your assigned token
 
 # ============================================
 # CRUD DEMO
@@ -46,7 +45,7 @@ def main():
     print("1.1 Creating a new table: 'my_test_table'")
     print("-" * 70)
     client.execute("""
-        CREATE TABLE IF NOT EXISTS my_test_table (
+        CREATE OR REPLACE TABLE my_test_table (
             id INTEGER,
             name VARCHAR,
             email VARCHAR,
@@ -342,6 +341,26 @@ def main():
     print(df)
     print()
 
+    print("6.3 Getting actual carbon metrics for their favorite zones")
+    print("-" * 70)
+    df = client.query("""
+        SELECT
+            ez.name,
+            ez.favorite_zone,
+            ROUND(AVG(h.carbon_direct), 2) as avg_carbon_direct,
+            ROUND(AVG(h.carbon_lifecycle), 2) as avg_carbon_lifecycle,
+            ROUND(AVG(h.cfe_pct), 2) as avg_cfe_pct,
+            ROUND(AVG(h.re_pct), 2) as avg_re_pct,
+            CASE WHEN COUNT(h.cfe_pct) > 0 THEN 'Complete Data' ELSE 'Partial Data' END as data_status
+        FROM employee_zones ez
+        JOIN hourly_data h ON ez.favorite_zone = h.zone
+        WHERE h.year = 2024
+        GROUP BY ez.name, ez.favorite_zone
+        ORDER BY ez.name
+    """)
+    print(df)
+    print()
+
     # ========================================
     # PART 7: Cleanup
     # ========================================
@@ -404,6 +423,8 @@ def main():
   - Deleted single rows
   - Deleted multiple rows with conditions
   - Dropped tables and views
+
+All CRUD operations completed successfully! 🎉
     """)
     print("=" * 70)
 
