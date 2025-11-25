@@ -270,3 +270,214 @@ df = pd.read_excel("C:/Users/leona/Desktop/Masters/Data Mungin/Second group Proj
 # Save as CSV
 df.to_csv("summary_2014.csv", index=False)
 #%%
+import plotly.express as px
+import pandas as pd
+df = pd.read_csv('C:/Users/leona/Desktop/Masters/Data Mungin/Second group Project/EDS/by_sector_by_state.csv', header=3)
+
+
+df_clean = df.iloc[:, [0, 1, 3, 5]].copy()
+
+#renamed
+df_clean.columns = ['State', 'Residential', 'Commercial', 'Industrial']
+
+
+df_clean['State'] = df_clean['State'].astype(str).str.strip()
+
+
+target_states = ['New York', 'California', 'Florida']
+df_final = df_clean[df_clean['State'].isin(target_states)].copy()
+
+
+cols_numerics = ['Residential', 'Commercial', 'Industrial']
+for col in cols_numerics:
+    df_final[col] = pd.to_numeric(df_final[col].astype(str).str.replace(',', ''), errors='coerce')
+
+# Tranformation for PLOT (Wide -> Long)
+
+df_long = df_final.melt(id_vars='State', 
+                        value_vars=cols_numericas, 
+                        var_name='Sector', 
+                        value_name='Consumption (Thousand MWh)')
+
+fig = px.bar(df_long, 
+             x='State', 
+             y='Consumption (Thousand MWh)', 
+             color='Sector', 
+             barmode='group', 
+             title='State-Level Consumption Profile by Sector (August 2025 YTD)',
+             template='plotly_white',
+             text_auto='.2s') # Show the value
+
+fig.show()
+#%%
+
+df = pd.read_csv('C:/Users/leona/Desktop/Masters/Data Mungin/Second group Project/EDS/Net_generation_for_all_sectors.csv', header=4)
+
+
+mapa_fontes = {
+    'United States : coal': 'Coal',
+    'United States : natural gas': 'Natural Gas',
+    'United States : nuclear': 'Nuclear',
+    'United States : wind': 'Wind',
+    'United States : all solar': 'Solar', 
+    'United States : conventional hydroelectric': 'Hydro',
+    'United States : geothermal': 'Geothermal',
+    'United States : biomass': 'Biomass'
+}
+
+
+df_subset = df[df['description'].isin(mapa_fontes.keys())].copy()
+df_subset['Category'] = df_subset['description'].map(mapa_fontes)
+
+#Wide to long
+df_subset.set_index('Category', inplace=True)
+cols_years = [str(y) for y in range(2010, 2025)] # 2010 a 2024
+df_transposed = df_subset[cols_years].transpose()
+df_transposed.index.name = 'Year'
+df_transposed.reset_index(inplace=True)
+
+
+cols_ren = ['Wind', 'Solar', 'Hydro', 'Geothermal', 'Biomass']
+
+for col in df_transposed.columns:
+    df_transposed[col] = pd.to_numeric(df_transposed[col], errors='coerce')
+
+df_transposed['Renewables'] = df_transposed[cols_ren].sum(axis=1)
+
+
+cols_finals = ['Year', 'Coal', 'Natural Gas', 'Renewables', 'Nuclear']
+df_plot = df_transposed[cols_finals].melt(id_vars='Year', 
+                                          var_name='Source', 
+                                          value_name='Generation (MWh)')
+
+
+fig = px.line(df_plot, 
+              x='Year', 
+              y='Generation (MWh)', 
+              color='Source',
+              markers=True,
+              title='U.S. Generation Mix Transition (2010–2024)',
+              labels={'Generation (MWh)': 'Net Generation (Thousand MWh)'},
+              template='plotly_white')
+
+
+fig.update_traces(line=dict(width=3))
+
+fig.show()
+#%%
+
+import pandas as pd
+import plotly.express as px
+
+df = pd.read_csv('C:/Users/leona/Desktop/Masters/Data Mungin/Second group Project/EDS/world_net_consumption.csv', header=1)
+
+
+df.rename(columns={'Unnamed: 1': 'Country'}, inplace=True)
+
+df_clean = df.drop([0]).drop(columns=['API'], errors='ignore')
+
+
+cols_years = [c for c in df_clean.columns if c.isdigit()]
+df_long = df_clean.melt(id_vars='Country', 
+                        value_vars=cols_years, 
+                        var_name='Year', 
+                        value_name='Consumption')
+
+
+df_long['Year'] = pd.to_numeric(df_long['Year'])
+df_long['Consumption'] = pd.to_numeric(df_long['Consumption'], errors='coerce')
+df_long.dropna(subset=['Consumption'], inplace=True)
+
+
+df_countries = df_long[df_long['Country'].str.strip() != 'World'].copy()
+
+
+df_race = df_countries.groupby('Year', group_keys=False).apply(
+    lambda x: x.nlargest(15, 'Consumption')
+).reset_index(drop=True)
+
+
+fig = px.bar(df_race, 
+             x='Consumption', 
+             y='Country', 
+             orientation='h', 
+             color='Country', 
+             animation_frame='Year', 
+             animation_group='Country',
+             range_x=[0, df_race['Consumption'].max() * 1.1],
+             title='Global Energy Giants: Consumption Race (1980-2023)',
+             labels={'Consumption': 'Net Consumption (Billion kWh)'},
+             template='plotly_white')
+
+# updates (legend gets bad)
+fig.update_layout(yaxis={'categoryorder': 'total ascending'}, 
+                  showlegend=False) 
+
+# HTML interactive, fig.show() if on jupyter
+fig.write_html("global_energy_race.html")
+print("open in your browser!")
+fig.show() 
+#%%
+from duckdb_client import DuckDBClient
+import pandas as pd
+import plotly.express as px
+
+
+BASE_URL = "https://duckdb.straddlyze.com"
+API_TOKEN = "token-vGG2vbS8IyEVYct5g6jFqQ" 
+client = DuckDBClient(base_url=BASE_URL, token=API_TOKEN)
+import plotly.express as px
+
+
+#%%
+import plotly.express as px
+
+tabela = "daily_energy_emissions"
+
+target_regions = ['US-NY-NYIS', 'US-CAL-CISO', 'US-FLA-FPL']
+
+# Transforming list to string "'US-NY', 'US-CAL-CISO', 'US-FLA-FPL'"
+regioes_sql = "', '".join(target_regions)
+
+print(f"Regions: {target_regions}")
+
+query = f"""
+SELECT 
+    temp_mean, 
+    carbon_intensity_direct,
+    region 
+FROM {tabela}
+WHERE region IN ('{regioes_sql}')
+LIMIT 5000 -- 
+"""
+
+try:
+    df = client.query(query)
+    
+    if not df.empty:
+        print(f"Sucesso! {len(df)} linhas baixadas.")
+        fig = px.scatter(df, 
+                         x="temp_mean", 
+                         y="carbon_intensity_direct",
+                         color="region", 
+                         trendline="lowess", 
+                         title="Environmental Impact Comparison: Heat vs. Grid Dirtiness (NY, CA, FL)",
+                         labels={
+                             "temp_mean": "Temperature (°C/°F)", 
+                             "carbon_intensity_direct": "Carbon Intensity (gCO2/kWh)",
+                             "region": "Grid Region"
+                         },
+                         opacity=0.4, 
+                         template="plotly_white")
+        fig.update_traces(selector=dict(mode='lines'), line=dict(width=4))
+    
+        fig.show()
+        
+    else:
+        print("Query returned empty")
+
+except Exception as e:
+    print(f"Error: {e}")
+#%%
+
+
